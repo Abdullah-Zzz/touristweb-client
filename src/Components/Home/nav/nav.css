@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 90px;
+    border-radius: 15px;
+    background-color: white;
+    margin-top: 20px;
+    box-shadow: -10px 8px 30px 2px rgb(129, 129, 129);
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%);
+}
+.navbar-mainHead{
+    margin-left: 2.5%;
+}
+.navbar-navList {
+    display: flex;
+    width: 500px;
+    margin-right: 20px;
+
+}
+.navbar-hamIcon {
+    display: none;
+    
+}
+
+
+.navbar-navList ul {
+    display: flex;
+    width: 100%;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    
+}
+.navbar-navList ul li a {
+    display: flex;
+    align-items: center;
+}
+.navbar-navList ul li svg {
+    margin-right: 5px;
+}
+.navbar-navList ul li a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.navbar-navList ul li a:hover {
+    background-color: rgb(234, 234, 234);
+    transition: 0.4s
+}
+.navbar-navListMobile ul li a:hover {
+    background-color: rgb(234, 234, 234);
+    transition: 0.4s
+}
+
+.navbar-navBtn {
+    padding: 15px 20px 15px 20px;
+    border: 0px solid;
+    border-radius: 3px;
+    background-color: rgba(225, 240, 255, 0.756);
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.navbar-logoutBtn {
+    padding: 10px 15px 10px 15px;
+    border: 0px solid;
+    border-radius: 3px;
+    background-color: rgba(225, 240, 255, 0.756);
+    cursor: pointer;
+    margin-left: 10px;
+}
+.navbar-username{
+    cursor: text;
+    background: none;
+    border: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.navbar-navBtn:hover {
+    background-color: rgba(203, 229, 255, 0.756);
+    transition: 0.4s;
+}
+.navbar-navListMobile button:hover {
+    background-color: rgba(203, 229, 255, 0.756);
+    transition: 0.4s;
+}
+@media screen and (max-width:900px) {
+    .navbar-hamIcon {
+        display: inline-block;
+        cursor: pointer;
+    }
+    .navbar-bar1,
+    .navbar-bar2,
+    .navbar-bar3 {
+        width: 35px;
+        height: 5px;
+        background-color: #333;
+        margin: 6px 0;
+        transition: 0.4s;
+    }
+    
+    .navbar-change .navbar-bar1 {
+        transform: translate(0, 11px) rotate(-45deg);
+    }
+    
+    .navbar-change .navbar-bar2 {
+        opacity: 0;
+    }
+    
+    .navbar-change .navbar-bar3 {
+        transform: translate(0, -11px) rotate(45deg);
+    }
+    .navbar-navListMobile button {
+        border: 0px solid;
+        border-radius: 3px;
+        background-color: rgba(225, 240, 255, 0.756);
+        cursor: pointer;
+        width: 80vw;
+        height: 50px;
+    }
+    .navbar-navListMobile ul li a {
+        text-decoration: none;
+        color: black;
+        font-weight: bolder;
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+    }
+    .navbar-navListMobile ul li svg {
+        margin-right: 10px;
+    }
+    .navbar-navListMobile ul {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        list-style: none;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+    .navbar-mainHead{
+        display: flex;
+        justify-content: space-between;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .navbar-navMobile {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 90%;
+        height: 400px;
+        border-radius: 10px;
+        background-color: white;
+        margin-top: 20px;
+        box-shadow: -10px 8px 30px 2px rgb(129, 129, 129);
+        position: absolute;
+        left: 20px;
+        z-index: 2;
+        
+    }
+    .navbar-navListMobile {
+        display: flex;
+        width: 100%;
+        height: 300px;  
+    }
+    .navbar-navList{
+        display: none;
+    }
+    
+}

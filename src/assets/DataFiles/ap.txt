@@ -1,0 +1,72 @@
+[
+    {
+        "value": "Sindh",
+        "selected": false,
+        "id": 1,
+        "price": 10000,
+        "perRoom": 1000,
+        "perDay": 1000,
+        "places": [
+            { "id": 101, "name": "Karachi", "price": 20000, "perRoom": 5000, "perDay": 300, "selected": false , "image" : "http://heritage.eftsindh.com/sites/karachi/images/kothari-parade-01.jpg"},
+            { "id": 102, "name": "Historical Places", "price": 15000, "perRoom": 4000, "perDay": 200, "selected": false , "image" : "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg" },
+            { "id": 103, "name": "Keenjhar Lake", "price": 18000, "perRoom": 4500, "perDay": 250, "selected": false , "image" : "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg"},
+            { "id": 104, "name": "Thar Desert", "price": 17000, "perRoom": 4300, "perDay": 220, "selected": false , "image" : "https://static.toiimg.com/photo/msid-68427042,width-96,height-65.cms"},
+            { "id": 105, "name": "Haleji Lake", "price": 16000, "perRoom": 4200, "perDay": 210, "selected": false , "image" : "https://2.bp.blogspot.com/-CqT5tD-BU-Y/Wbw_-jjUr0I/AAAAAAAACvY/hTbtrAtWOSI8GLInjIroxc9PLDdHUUPcgCLcBGAs/s1600/Haleji%2BLake%2BSindh.bmp"},
+            { "id": 106, "name": "Gorakh Hill Station", "price": 22000, "perRoom": 5500, "perDay": 300, "selected": false, "image" : "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg" },
+            { "id": 107, "name": "Mubarak Village", "price": 19000, "perRoom": 4700, "perDay": 240, "selected": false , "image" : "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-A-13-03.jpg"},
+            { "id": 108, "name": "Lakki Mountains", "price": 21000, "perRoom": 5300, "perDay": 290, "selected": false , "image" : "https://www.west-crete.com/dailypics/photos2/4020large.jpg"},
+            { "id": 109, "name": "Hingol National Park", "price": 25000, "perRoom": 6000, "perDay": 320, "selected": false , "image" : "http://img.xcitefun.net/users/2015/01/376866,xcitefun-hingol-national-park-1.jpg"},
+            { "id": 110, "name": "Chotiari Reservoir", "price": 20000, "perRoom": 5000, "perDay": 300, "selected": false , "image" : "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "value": "Punjab",
+        "selected": false,
+        "id": 2,
+        "price": 12000,
+        "perRoom": 1200,
+        "perDay": 1200,
+        "places": [
+            { "id": 201, "name": "Lahore", "price": 22000, "perRoom": 6000, "perDay": 400, "selected": false , "image" : "https://4.bp.blogspot.com/-MPRV0WIHOx4/V4soTIi2HfI/AAAAAAAAB_Y/4bD1Yls3nV03WEMGKlqSHz8mKd-R9voeACLcB/s1600/lahore%2Bmuseum%2B2.jpg"},
+            { "id": 202, "name": "Multan", "price": 18000, "perRoom": 5000, "perDay": 300, "selected": false , "image" : "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/01/image-2120-b-1.jpg"},
+            { "id": 203, "name": "Rawalpindi", "price": 20000, "perRoom": 5500, "perDay": 350, "selected": false , "image" : "https://propakistani.pk/wp-content/uploads/2018/03/pic-130.jpg"},
+            { "id": 204, "name": "Faisalabad", "price": 17000, "perRoom": 4500, "perDay": 280, "selected": false , "image" : "https://i.pinimg.com/originals/64/6f/52/646f52b084f90599794f122a3f475d20.jpg"},
+            { "id": 205, "name": "Bahawalpur", "price": 19000, "perRoom": 4800, "perDay": 320, "selected": false , "image" : "https://rising-pakistan.com/wp-content/uploads/2021/03/Gulzar-Mahal-Bahawalpur.jpg"},
+            { "id": 206, "name": "Murree", "price": 24000, "perRoom": 6200, "perDay": 370, "selected": false , "image" : "https://4.bp.blogspot.com/-fllI81Oju8w/UKobbhZvjJI/AAAAAAAAB9g/9yvgwP_BKp4/s1600/murree+snowfall+HD+Best+Image+And+Best+Wallpaper.jpg"},
+            { "id": 207, "name": "Taxila", "price": 16000, "perRoom": 4200, "perDay": 250, "selected": false , "image" : "https://tripako.com/wp-content/uploads/2020/12/taxila-1-scaled.jpg"},
+            { "id": 208, "name": "Jhelum", "price": 15000, "perRoom": 4000, "perDay": 240, "selected": false , "image" : "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/08/Jhelum-River-A-20-08.jpg"}
+        ]
+    },
+    {
+        "value": "Northern Areas",
+        "selected": false,
+        "id": 3,
+        "price": 14000,
+        "perRoom": 1400,
+        "perDay": 1400,
+        "places": [
+            { "id": 301, "name": "Hunza Valley", "price": 30000, "perRoom": 8000, "perDay": 500, "selected": false , "image" : "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit"},
+            { "id": 302, "name": "Skardu", "price": 32000, "perRoom": 8500, "perDay": 550, "selected": false, "image" : "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg" },
+            { "id": 303, "name": "Fairy Meadows", "price": 28000, "perRoom": 7500, "perDay": 480, "selected": false, "image" : "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg" },
+            { "id": 304, "name": "Naran Kaghan", "price": 27000, "perRoom": 7200, "perDay": 460, "selected": false, "image" : "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg" },
+            { "id": 305, "name": "Swat Valley", "price": 25000, "perRoom": 6700, "perDay": 420, "selected": false, "image" : "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg" },
+            { "id": 306, "name": "Chitral", "price": 26000, "perRoom": 7000, "perDay": 440, "selected": false, "image" : "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1" }
+        ]
+    },
+    {
+        "value": "kashmir",
+        "selected": false,
+        "id": 4,
+        "price": 14000,
+        "perRoom": 1400,
+        "perDay": 1400,
+        "places": [
+            { "id": 401, "name": "neelum valley", "price": 30000, "perRoom": 8000, "perDay": 500, "selected": false , "image" : "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit"},
+            { "id": 402, "name": "tolipir", "price": 32000, "perRoom": 8500, "perDay": 550, "selected": false, "image" : "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg" },
+            { "id": 403, "name": "kala", "price": 28000, "perRoom": 7500, "perDay": 480, "selected": false, "image" : "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg" },
+            { "id": 404, "name": "rawalakot", "price": 27000, "perRoom": 7200, "perDay": 460, "selected": false, "image" : "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg" },
+            { "id": 405, "name": "pooonch", "price": 25000, "perRoom": 6700, "perDay": 420, "selected": false, "image" : "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg" },
+            { "id": 406, "name": "topi", "price": 26000, "perRoom": 7000, "perDay": 440, "selected": false, "image" : "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1" }
+        ]
+    }
+]

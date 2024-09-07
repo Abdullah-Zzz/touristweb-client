@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.provinces-mainContainer{
+    background: url("/Images/hero.jpg") center center/cover no-repeat;
+    height: 500px;
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    object-fit: cover;
+    z-index: -1; 
+}
+.provinces-hero{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+.provinces-hero h1{
+    font-size: 50px;
+}
+.provinces-card{
+    display:  flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    margin-top: 60px;
+    overflow-x: hidden;
+    margin-bottom: 80px;
+}

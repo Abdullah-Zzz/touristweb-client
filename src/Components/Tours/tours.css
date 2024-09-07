@@ -1,0 +1,63 @@
+*{
+    margin: 0px ;
+    padding:0px ;
+}
+.tours-hero {
+    display: flex;
+    flex-direction: column;
+    height:500px;
+    background: url('/Images/aboutus.jpg') no-repeat center center/cover;
+}
+.tours-heroContent{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;   
+
+}
+.tours-heroHead{
+    color: aliceblue;
+    font-size: 50px;
+}
+.tours-search{
+    width: 85%;
+    height: 50px;
+    border-radius:5px;
+    border: 0px;
+    text-indent: 15px;
+    display: flex;
+    justify-self: flex-end;
+    margin-top: 50px;
+}
+.tours-heroContent p{
+    color: white;
+    font-size: 20px;
+}
+.tours-allTrips{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.tours-Btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.tours-viewMoreBtn{
+    padding: 15px 35px 15px 35px;
+    background-color: rgba(196, 226, 255, 0.756);
+    border: 2px solid rgba(196, 226, 255, 0.756);
+    cursor: pointer;
+    margin-top:20px;
+}
+.tours-viewMoreBtn:hover {
+    background-color: rgba(132, 194, 255, 0.756);
+    transition: 0.4s;
+}
+.tours-body{
+    overflow-x:none ;
+}
+

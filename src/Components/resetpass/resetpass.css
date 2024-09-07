@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.resetpass-body {
+    background-color: rgba(1, 134, 229, 1);
+    height: 800px;
+    border:1px solid rgba(1, 134, 229, 1);
+}
+.resetpass-mainContainer{
+    margin: 100px auto;
+    width: 600px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius:5px ;
+    box-shadow: -1px 1px 62px -18px rgba(0, 0, 0, 0.19);
+    
+}
+.resetpass-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.resetpass-input{
+    width: 90%;
+    height: 50px;
+    padding-left: 10px;
+    border: 2px solid silver;
+}   
+.resetpass-submit{
+    width: 40%;
+    height: 50px;
+    margin-top: 30px;
+    background-color:  rgba(1, 134, 229, 1);
+    border: 0px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: bold;
+
+}
+.resetpass-submit:hover{
+    background-color:  rgb(0, 149, 255);
+    transition: 0.4s;
+    cursor: pointer;
+}
+.resetpass-head{
+    color:  rgba(1, 134, 229, 1);   
+}
+.resetpass-para{
+    color:rgb(104, 104, 104);
+    text-align: center;
+    width: 90%;
+}
+.resetpass-respMessage{
+    color:  rgba(1, 134, 229, 1);   
+
+}
+@media screen and (max-width:630px){
+  .resetpass-mainContainer{
+    width:95%;
+  }
+  
+}
+@media screen and (max-width:490px){
+  .resetpass-mainContainer{
+    height:450px;
+  }
+
+  .resetpass-submit{
+    width:150px;
+  } 
+ 
+}

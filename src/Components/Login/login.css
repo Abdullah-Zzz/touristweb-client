@@ -1,0 +1,104 @@
+{
+    margin: 0px ;
+    padding: 0px;
+}
+
+.login-section{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}   
+.login-container{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    box-shadow: 0 5px 25px 2px rgb(0, 0, 0, 0.18);
+    border-radius: 20px;
+    position: absolute;
+    top: 180px;
+    z-index: 1;
+}
+.login-photoSection{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-photoSection img{
+    width: 100%;
+    height: 90%;
+}
+.login-formSection{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(130, 169, 255);
+    border-top-right-radius: 10px ;
+    border-bottom-right-radius:10px ;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    justify-content: space-around;
+}
+.login-form input{
+        padding: 15px 15px;
+        border-radius: 5px;
+        border: none;
+        margin-bottom:10px;
+}
+
+.login-form button{
+    padding:15px 15px  ;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.login-forgotPass{
+  color:black;
+  margin:10px 0px;
+  text-decoration:none;
+  cursor:pointer;
+}
+@media screen and (max-width:1100px) {
+
+    .login-container{
+        width: 92%;
+        height: 500px;
+    }
+
+}
+@media screen and (max-width:880px) {
+
+
+    .login-photoSection{
+        display: none;
+    }
+    .login-formSection{
+        width: 100%;
+        border-radius:5px ;
+        width: 80%;
+        height: 90%;
+    }
+    .login-container{
+        justify-content: center;
+    }
+    .login-form input{
+        width: 50vw;
+        padding: none;
+        border-radius: 5px;
+        border: none;
+}
+}

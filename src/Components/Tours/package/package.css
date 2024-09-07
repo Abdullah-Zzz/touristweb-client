@@ -1,0 +1,77 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+.package-Hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    height: auto;
+    padding: 10px 10px 50px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+.package-Hero h1{
+    font-size: 50px;
+    /* color: rgb(153, 224, 248); */
+}
+.package-Hero p{
+    font-size:20px;
+    margin-top: 20px;
+}
+.package-packages{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 99%;
+}
+.package-packages h2{
+    font-size: 40px;
+    text-align: center;
+}
+.package-renderPackage{
+    display: flex;
+    margin: 60px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow-x: hidden;
+
+
+}
+@media screen and (max-width: 680px) {
+    .package-Hero h1{
+        font-size: 40px;
+        /* color: rgb(153, 224, 248); */
+    }
+    .package-Hero p{
+        font-size:17px;
+    }
+    .package-packages h2{
+        font-size: 30px;
+    }
+    .package-Hero{
+        width: 85%;
+    }
+    .package-packages{
+        width: 98%;
+    }
+}
+@media screen and (max-width: 460px) {
+    .package-Hero h1{
+        font-size: 30px;
+    }
+    .package-Hero p{
+        font-size:16px;
+    }
+    .package-packages h2{
+        font-size: 25px;
+    }
+}

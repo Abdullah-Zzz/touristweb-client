@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+}
+
+.homeHero-mainContainer {
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+    background: url('/Images/hero.jpg') no-repeat center center/cover;
+}
+ /* .homeHero-mainContainer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://api.deepai.org/job-view-file/bce88c9c-e62d-4696-bb62-44d8dcd2b590/outputs/output.jpg?art-image=true') no-repeat center center/cover;
+    transform: scaleX(-1);
+    z-index: -1;  
+} */
+.homeHero-mainPara {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    position: absolute;
+    top: 300px;
+    z-index: 1;
+    margin-left:100px;
+}
+
+.homeHero-ParaHead {
+    font-size: 5em;
+    color: white;
+}
+
+.homeHero-paragraph {
+    font-size: 1.3em;
+    color: rgba(255, 255, 255, 255);
+}
+
+.homeHero-PlanButton {
+    padding: 15px 35px 15px 35px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: none;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.homeHero-PlanButton:hover {
+    box-shadow: 3px 3px 10px rgb(219, 219, 219);
+    transition: 0.4s;
+}
+.homeHero-aiBot{
+    border: 2px solid black;
+    width: 500px;
+    height: 150px;
+    margin-left: 1200px;
+}
+@media screen and (max-width:940px){
+    .homeHero-mainPara {
+        
+        margin-left:50px;
+        width: auto;
+    }
+    .homeHero-ParaHead {
+        font-size: 4em;
+        color: white;
+    }
+
+    .homeHero-paragraph {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: white;
+    }
+
+}
+@media screen and (max-width:560px) {
+    .homeHero-mainPara {
+        top: 220px;
+        margin-left:15px;
+        width: auto;
+    }
+    .homeHero-paragraph {
+        font-size: 1.1em;
+        font-weight: bold;
+        color: white;
+    }
+}
+@media screen and (max-width:410px) {
+    
+    .homeHero-ParaHead {
+        font-size: 3em;
+    }
+
+    .homeHero-paragraph {
+        font-size: 1em;
+        font-weight: bold;
+        color: white;
+    }
+}

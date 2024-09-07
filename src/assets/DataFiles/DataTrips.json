@@ -1,0 +1,3015 @@
+[
+  {
+    "mainData": [
+      {
+        "name": "Northern Areas",
+        "description": "The Northern Areas of Pakistan, now known as Gilgit-Baltistan, are a region of unparalleled natural beauty. Encompassing some of the world's highest peaks, including K2, and stunning valleys like Hunza and Skardu, this area is a heaven for adventurers and nature lovers.",
+        "image_url": "https://bookmepk.s3.eu-central-1.amazonaws.com/static/images/blogs/21HemfFUljcYYYE4AFVHLbNDUzs9YSlzyxGxi36H.jpg"
+      },
+      {
+        "id" : "G7dKx4A1sP",
+        "name": "Chitral Valley Adventure",
+        "city": "Chitral",
+        "description": "Embark on an exhilarating adventure to the stunning Chitral Valley.",
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Chitral-Kalash-Image.webp",
+        "packages": [
+          {
+            "id": "chitral1",
+            "package_name": "Trekking Expedition",
+            "city": "Chitral",
+            "duration": "8 days",
+            "price": 80000,
+            "image_url": [
+              "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5dfd1ed2eef73319397ce4fe/1588791249542-AXJE1GF51LMSI0Y6J9JG/Yasin+Valley+web.jpg?format=750w",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472690471.jpg?k=b85c499ba416b606f375de7dfd4d349fc3db9af228624aaad09063144010f17f&o=&hp=1",
+              "https://i0.wp.com/www.kumrattourism.com/wp-content/uploads/2022/06/Chitrali-Makhor.jpg?fit=1024%2C768&ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5c68e11ba568276366c47f73/1562536526930-X23S9WH66FK022W896AC/Photo+53.jpg?format=1500w"
+            ],
+            "description": "Embark on a challenging trekking expedition through the rugged terrain of Chitral Valley.",
+            "big_description": "Experience the rugged beauty and cultural richness of Chitral Valley on this adventurous tour. Known for its majestic mountains and vibrant festivals, Chitral offers a unique blend of natural splendor and cultural experiences. Explore traditional villages, enjoy the hospitality of the Kalash people, and trek through some of the most stunning landscapes in Pakistan.",
+            "details": {
+              "tour_inclusion": [
+                "Professional trekking guide",
+                "Camping equipment",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Chitral, transfer to trekking base camp",
+                "Day 2-7: Trekking through Chitral Valley",
+                "Day 8: Return to Chitral, leisure time",
+                "Day 9: Departure from Chitral"
+              ]
+            }
+          },
+          {
+            "id": "chitral2",
+            "package_name": "Cultural Exploration",
+            "city": "Chitral",
+            "duration": "6 days",
+            "price": 75000,
+            "image_url": [
+              "https://images.squarespace-cdn.com/content/v1/5dfd1ed2eef73319397ce4fe/1588791249542-AXJE1GF51LMSI0Y6J9JG/Yasin+Valley+web.jpg?format=750w",
+              "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472690471.jpg?k=b85c499ba416b606f375de7dfd4d349fc3db9af228624aaad09063144010f17f&o=&hp=1",
+              "https://i0.wp.com/www.kumrattourism.com/wp-content/uploads/2022/06/Chitrali-Makhor.jpg?fit=1024%2C768&ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5c68e11ba568276366c47f73/1562536526930-X23S9WH66FK022W896AC/Photo+53.jpg?format=1500w"
+            ],
+            "description": "Immerse yourself in the unique culture and traditions of Chitral.",
+            "big_description": "Experience the rugged beauty and cultural richness of Chitral Valley on this adventurous tour. Known for its majestic mountains and vibrant festivals, Chitral offers a unique blend of natural splendor and cultural experiences. Explore traditional villages, enjoy the hospitality of the Kalash people, and trek through some of the most stunning landscapes in Pakistan.",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of historical sites",
+                "Visits to local villages and communities",
+                "Traditional music and dance performances",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Alcoholic beverages"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Chitral, check-in to hotel",
+                "Day 2-5: Explore historical sites and cultural landmarks",
+                "Day 6: Departure from Chitral"
+              ]
+            }
+          },
+          {
+            "id": "chitral3",
+            "package_name": "Family Retreat",
+            "city": "Chitral",
+            "duration": "7 days",
+            "price": 70000,
+            "image_url": [
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472690471.jpg?k=b85c499ba416b606f375de7dfd4d349fc3db9af228624aaad09063144010f17f&o=&hp=1",
+              "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5dfd1ed2eef73319397ce4fe/1588791249542-AXJE1GF51LMSI0Y6J9JG/Yasin+Valley+web.jpg?format=750w",
+              "https://i0.wp.com/www.kumrattourism.com/wp-content/uploads/2022/06/Chitrali-Makhor.jpg?fit=1024%2C768&ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5c68e11ba568276366c47f73/1562536526930-X23S9WH66FK022W896AC/Photo+53.jpg?format=1500w"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the stunning landscapes of Chitral Valley.",
+            "big_description": "Experience the rugged beauty and cultural richness of Chitral Valley on this adventurous tour. Known for its majestic mountains and vibrant festivals, Chitral offers a unique blend of natural splendor and cultural experiences. Explore traditional villages, enjoy the hospitality of the Kalash people, and trek through some of the most stunning landscapes in Pakistan.",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Chitral, check-in to family-friendly accommodations",
+                "Day 2-6: Family-friendly activities and sightseeing",
+                "Day 7: Departure from Chitral"
+              ]
+            }
+          },
+          {
+            "id": "chitral4",
+            "package_name": "Wildlife Safari",
+            "city": "Chitral",
+            "duration": "4 days",
+            "price": 60000,
+            "image_url": [
+              "https://i0.wp.com/www.kumrattourism.com/wp-content/uploads/2022/06/Chitrali-Makhor.jpg?fit=1024%2C768&ssl=1",
+              "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5dfd1ed2eef73319397ce4fe/1588791249542-AXJE1GF51LMSI0Y6J9JG/Yasin+Valley+web.jpg?format=750w",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472690471.jpg?k=b85c499ba416b606f375de7dfd4d349fc3db9af228624aaad09063144010f17f&o=&hp=1",
+              "https://images.squarespace-cdn.com/content/v1/5c68e11ba568276366c47f73/1562536526930-X23S9WH66FK022W896AC/Photo+53.jpg?format=1500w"
+            ],
+            "description": "Embark on an exciting wildlife safari through the lush forests and valleys of Chitral.",
+            "big_description": "Experience the rugged beauty and cultural richness of Chitral Valley on this adventurous tour. Known for its majestic mountains and vibrant festivals, Chitral offers a unique blend of natural splendor and cultural experiences. Explore traditional villages, enjoy the hospitality of the Kalash people, and trek through some of the most stunning landscapes in Pakistan.",
+            "details": {
+              "tour_inclusion": [
+                "Guided wildlife safari",
+                "Accommodation in safari lodges",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Chitral, check-in to safari lodge",
+                "Day 2-3: Wildlife safari",
+                "Day 4: Departure from Chitral"
+              ]
+            }
+          },
+          {
+            "id": "chitral5",
+            "package_name": "Adventure Rafting",
+            "city": "Chitral",
+            "duration": "3 days",
+            "price": 50000,
+            "image_url": [
+              "https://images.squarespace-cdn.com/content/v1/5c68e11ba568276366c47f73/1562536526930-X23S9WH66FK022W896AC/Photo+53.jpg?format=1500w",
+              "https://i0.wp.com/hindukushheights.com/wp-content/uploads/2023/02/kalash-valley-1.jpg?ssl=1",
+              "https://images.squarespace-cdn.com/content/v1/5dfd1ed2eef73319397ce4fe/1588791249542-AXJE1GF51LMSI0Y6J9JG/Yasin+Valley+web.jpg?format=750w",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472690471.jpg?k=b85c499ba416b606f375de7dfd4d349fc3db9af228624aaad09063144010f17f&o=&hp=1",
+              "https://i0.wp.com/www.kumrattourism.com/wp-content/uploads/2022/06/Chitrali-Makhor.jpg?fit=1024%2C768&ssl=1"
+            ],
+            "description": "Experience the thrill of white-water rafting on the rapids of Chitral River.",
+            "big_description": "Experience the rugged beauty and cultural richness of Chitral Valley on this adventurous tour. Known for its majestic mountains and vibrant festivals, Chitral offers a unique blend of natural splendor and cultural experiences. Explore traditional villages, enjoy the hospitality of the Kalash people, and trek through some of the most stunning landscapes in Pakistan.",
+            "details": {
+              "tour_inclusion": [
+                "Professional rafting guide",
+                "Rafting equipment",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Chitral, check-in to hotel",
+                "Day 2: White-water rafting adventure",
+                "Day 3: Departure from Chitral"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"jH5l8R0yWu",
+        "name": "Naran Valley Adventure",
+        "city": "Naran",
+        "description": "Embark on an exciting adventure to the picturesque Naran Valley.",
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Naran-Kaghan-Image.webp",
+        "packages": [
+          {
+            "id": "naran1",
+            "package_name": "Hiking Expedition",
+            "city": "Naran",
+            "duration": "7 days",
+            "price": 70000,
+            "image_url": [
+              "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg",
+              "https://www.ibextrails.com/core/uploads/2022/10/camping.jpg",
+              "https://cdn.tourradar.com/s3/tour/1500x800/234661_632d7d4ee6cec.jpg",
+              "https://www.acethehimalaya.com/wp-content/uploads/2021/09/adventure-activities-nepal-rafting-river.jpg",
+              "https://www.wildfrontierstravel.com/media/cache/gallery_image/upload/mirror/dhruv-wildfrontierstravel-com/51a75e88_dreamstimem180350482.jpeg"
+            ],
+            "description": "Explore the stunning landscapes and pristine lakes of Naran Valley through exhilarating hikes.",
+            "big_description": "Escape to the serene landscapes of Naran Kaghan Valley, a haven for nature lovers and adventure seekers. This tour features crystal-clear lakes, lush green valleys, and thrilling outdoor activities. Whether you're boating on Lake Saif-ul-Malook or hiking through verdant trails, Naran Kaghan Valley promises a refreshing and invigorating experience.",
+            "details": {
+              "tour_inclusion": [
+                "Professional hiking guide",
+                "Hiking equipment",
+                "All meals during hiking",
+                "Transportation throughout the tour",
+                "Accommodation in lodges/tents",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the hiking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Naran, transfer to hiking base camp",
+                "Day 2-6: Guided hikes to scenic viewpoints and lakes",
+                "Day 7: Return to Naran, leisure time",
+                "Day 8: Departure from Naran"
+              ]
+            }
+          },
+          {
+            "id": "naran2",
+            "package_name": "Camping Experience",
+            "city": "Naran",
+            "duration": "5 days",
+            "price": 55000,
+            "image_url": [
+              "https://www.ibextrails.com/core/uploads/2022/10/camping.jpg",
+              "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg",
+              "https://cdn.tourradar.com/s3/tour/1500x800/234661_632d7d4ee6cec.jpg",
+              "https://www.acethehimalaya.com/wp-content/uploads/2021/09/adventure-activities-nepal-rafting-river.jpg",
+              "https://www.wildfrontierstravel.com/media/cache/gallery_image/upload/mirror/dhruv-wildfrontierstravel-com/51a75e88_dreamstimem180350482.jpeg"
+            ],
+            "description": "Spend memorable nights under the starry sky with this camping experience in Naran Valley.",
+            "big_description": "Escape to the serene landscapes of Naran Kaghan Valley, a haven for nature lovers and adventure seekers. This tour features crystal-clear lakes, lush green valleys, and thrilling outdoor activities. Whether you're boating on Lake Saif-ul-Malook or hiking through verdant trails, Naran Kaghan Valley promises a refreshing and invigorating experience.",
+            "details": {
+              "tour_inclusion": [
+                "Camping equipment",
+                "Guided camping experience",
+                "All meals during camping",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Naran, transfer to camping site",
+                "Day 2-4: Camping and exploration",
+                "Day 5: Departure from Naran"
+              ]
+            }
+          },
+          {
+            "id": "naran3",
+            "package_name": "Family Retreat",
+            "city": "Naran",
+            "duration": "6 days",
+            "price": 65000,
+            "image_url": [
+              "https://cdn.tourradar.com/s3/tour/1500x800/234661_632d7d4ee6cec.jpg",
+              "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg",
+              "https://www.ibextrails.com/core/uploads/2022/10/camping.jpg",
+              "https://www.acethehimalaya.com/wp-content/uploads/2021/09/adventure-activities-nepal-rafting-river.jpg",
+              "https://www.wildfrontierstravel.com/media/cache/gallery_image/upload/mirror/dhruv-wildfrontierstravel-com/51a75e88_dreamstimem180350482.jpeg"
+            ],
+            "description": "Create unforgettable memories with your family amidst the scenic beauty of Naran Valley.",
+            "big_description": "Escape to the serene landscapes of Naran Kaghan Valley, a haven for nature lovers and adventure seekers. This tour features crystal-clear lakes, lush green valleys, and thrilling outdoor activities. Whether you're boating on Lake Saif-ul-Malook or hiking through verdant trails, Naran Kaghan Valley promises a refreshing and invigorating experience.",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Naran, check-in to family-friendly accommodations",
+                "Day 2-5: Family-friendly activities and sightseeing",
+                "Day 6: Departure from Naran"
+              ]
+            }
+          },
+          {
+            "id": "naran4",
+            "package_name": "Adventure Rafting",
+            "city": "Naran",
+            "duration": "3 days",
+            "price": 45000,
+            "image_url": [
+              "https://www.acethehimalaya.com/wp-content/uploads/2021/09/adventure-activities-nepal-rafting-river.jpg",
+              "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg",
+              "https://www.ibextrails.com/core/uploads/2022/10/camping.jpg",
+              "https://cdn.tourradar.com/s3/tour/1500x800/234661_632d7d4ee6cec.jpg",
+              "https://www.wildfrontierstravel.com/media/cache/gallery_image/upload/mirror/dhruv-wildfrontierstravel-com/51a75e88_dreamstimem180350482.jpeg"
+            ],
+            "description": "Experience the thrill of white-water rafting amidst the roaring rivers of Naran Valley.",
+            "big_description": "Escape to the serene landscapes of Naran Kaghan Valley, a haven for nature lovers and adventure seekers. This tour features crystal-clear lakes, lush green valleys, and thrilling outdoor activities. Whether you're boating on Lake Saif-ul-Malook or hiking through verdant trails, Naran Kaghan Valley promises a refreshing and invigorating experience.",
+            "details": {
+              "tour_inclusion": [
+                "Professional rafting guide",
+                "Rafting equipment",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Naran, check-in to hotel",
+                "Day 2: White-water rafting adventure",
+                "Day 3: Departure from Naran"
+              ]
+            }
+          },
+          {
+            "id": "naran5",
+            "package_name": "Sightseeing Tour",
+            "city": "Naran",
+            "duration": "4 days",
+            "price": 50000,
+            "image_url": [
+              "https://www.wildfrontierstravel.com/media/cache/gallery_image/upload/mirror/dhruv-wildfrontierstravel-com/51a75e88_dreamstimem180350482.jpeg",
+              "https://img.freepik.com/free-photo/hiking-men-conquer-mountain-peak-adventure-awaits-generative-ai_188544-7877.jpg",
+              "https://www.ibextrails.com/core/uploads/2022/10/camping.jpg",
+              "https://cdn.tourradar.com/s3/tour/1500x800/234661_632d7d4ee6cec.jpg",
+              "https://www.acethehimalaya.com/wp-content/uploads/2021/09/adventure-activities-nepal-rafting-river.jpg"
+            ],
+            "description": "Discover the natural wonders and cultural heritage of Naran Valley through guided sightseeing tours.",
+            "big_description": "Escape to the serene landscapes of Naran Kaghan Valley, a haven for nature lovers and adventure seekers. This tour features crystal-clear lakes, lush green valleys, and thrilling outdoor activities. Whether you're boating on Lake Saif-ul-Malook or hiking through verdant trails, Naran Kaghan Valley promises a refreshing and invigorating experience.",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of scenic spots and cultural sites",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Naran, check-in to hotel",
+                "Day 2-3: Guided sightseeing tours",
+                "Day 4: Departure from Naran"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"Z9bT3oQmNy",
+        "name": "Swat Valley Expedition",
+        "city": "Swat",
+        "description": "Embark on an unforgettable journey to the breathtaking Swat Valley.",
+        
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Swat-Valley-Image.webp",
+        "packages": [
+          {
+            "id": "swat1",
+            "package_name": "Nature Retreat",
+            "city": "Swat",
+            "duration": "6 days",
+            "price": 60000,
+            "image_url": [
+              "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg",
+              "https://cdn-bigea.nitrocdn.com/kEmUFseGOsyQaVYzcZNtwjZRzYsVAhPE/assets/static/optimized/rev-c0c7598/wp-content/uploads/2020/03/0305-Malam_Jabba-February_2015-1.jpg",
+              "https://dailytimes.com.pk/assets/uploads/2019/07/24/maxresdefault-1.jpg",
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/v1667827080/Malam_Jabba_pakistan.jpg",
+              "https://www.app.com.pk/wp-content/uploads/2024/01/Swat.jpg"
+            ],
+            "description": "Escape into the tranquility of Swat Valley with this nature retreat.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in cozy lodges",
+                "Guided nature walks",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Swat, check-in to lodge",
+                "Day 2-5: Explore natural wonders of Swat Valley",
+                "Day 6: Departure from Swat"
+              ]
+            }
+          },
+          {
+            "id": "swat2",
+            "package_name": "Adventure Trek",
+            "city": "Swat",
+            "duration": "8 days",
+            "price": 75000,
+            "image_url": [
+              "https://cdn-bigea.nitrocdn.com/kEmUFseGOsyQaVYzcZNtwjZRzYsVAhPE/assets/static/optimized/rev-c0c7598/wp-content/uploads/2020/03/0305-Malam_Jabba-February_2015-1.jpg",
+              "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg",
+              "https://dailytimes.com.pk/assets/uploads/2019/07/24/maxresdefault-1.jpg",
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/v1667827080/Malam_Jabba_pakistan.jpg",
+              "https://www.app.com.pk/wp-content/uploads/2024/01/Swat.jpg"
+            ],
+            "description": "Embark on an adventurous trekking expedition through the scenic landscapes of Swat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Professional trekking guide",
+                "Camping equipment",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Swat, transfer to trekking base camp",
+                "Day 2-7: Trekking through Swat Valley",
+                "Day 8: Return to Swat, leisure time",
+                "Day 9: Departure from Swat"
+              ]
+            }
+          },
+          {
+            "id": "swat3",
+            "package_name": "Cultural Exploration",
+            "city": "Swat",
+            "duration": "5 days",
+            "price": 55000,
+            "image_url": [
+              "https://dailytimes.com.pk/assets/uploads/2019/07/24/maxresdefault-1.jpg",
+              "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg",
+              "https://cdn-bigea.nitrocdn.com/kEmUFseGOsyQaVYzcZNtwjZRzYsVAhPE/assets/static/optimized/rev-c0c7598/wp-content/uploads/2020/03/0305-Malam_Jabba-February_2015-1.jpg",
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/v1667827080/Malam_Jabba_pakistan.jpg",
+              "https://www.app.com.pk/wp-content/uploads/2024/01/Swat.jpg"
+            ],
+            "description": "Immerse yourself in the rich cultural heritage of Swat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of historical sites",
+                "Visits to local villages and communities",
+                "Traditional music and dance performances",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Alcoholic beverages"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Swat, check-in to hotel",
+                "Day 2-4: Explore historical sites and cultural landmarks",
+                "Day 5: Departure from Swat"
+              ]
+            }
+          },
+          {
+            "id": "swat4",
+            "package_name": "Family Retreat",
+            "city": "Swat",
+            "duration": "7 days",
+            "price": 70000,
+            "image_url": [
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/v1667827080/Malam_Jabba_pakistan.jpg",
+              "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg",
+              "https://cdn-bigea.nitrocdn.com/kEmUFseGOsyQaVYzcZNtwjZRzYsVAhPE/assets/static/optimized/rev-c0c7598/wp-content/uploads/2020/03/0305-Malam_Jabba-February_2015-1.jpg",
+              "https://dailytimes.com.pk/assets/uploads/2019/07/24/maxresdefault-1.jpg",
+              "https://www.app.com.pk/wp-content/uploads/2024/01/Swat.jpg"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the serene landscapes of Swat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Swat, check-in to family-friendly accommodations",
+                "Day 2-6: Family-friendly activities and sightseeing",
+                "Day 7: Departure from Swat"
+              ]
+            }
+          },
+          {
+            "id": "swat5",
+            "package_name": "Skiing Experience",
+            "city": "Swat",
+            "duration": "4 days",
+            "price": 65000,
+            "image_url": [
+              "https://www.app.com.pk/wp-content/uploads/2024/01/Swat.jpg",
+              "https://www.ajktours.com/wp-content/uploads/2023/12/swat-hills.jpg",
+              "https://cdn-bigea.nitrocdn.com/kEmUFseGOsyQaVYzcZNtwjZRzYsVAhPE/assets/static/optimized/rev-c0c7598/wp-content/uploads/2020/03/0305-Malam_Jabba-February_2015-1.jpg",
+              "https://dailytimes.com.pk/assets/uploads/2019/07/24/maxresdefault-1.jpg",
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/v1667827080/Malam_Jabba_pakistan.jpg"
+            ],
+            "description": "Indulge in thrilling skiing adventures amidst the snow-covered slopes of Swat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Skiing equipment",
+                "Guided skiing sessions",
+                "Transportation throughout the tour",
+                "Accommodation in cozy lodges",
+                "Meals as per itinerary",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Swat, transfer to skiing site",
+                "Day 2-3: Skiing sessions",
+                "Day 4: Departure from Swat"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"fL6rA2xVjD",
+        "name": "Kumrat Valley Expedition",
+        "city": "Kumrat",
+        "description": "Explore the pristine beauty of Kumrat Valley, a hidden gem in the heart of northern Pakistan.",
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Kumrat-Valley-Image.webp",
+        "packages": [
+          {
+            "id": "kumrat1",
+            "package_name": "Nature Immersion",
+            "city": "Kumrat",
+            "duration": "5 days",
+            "price": 55000,
+            "image_url": [
+              "https://elands.pk/storage/2024/03/1200px-Evening_shades-1200x867.jpg.webp",
+              "https://urbanduniya.com/wp-content/uploads/Jahaz-Banda.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/44/a6/valhalla-resort-kumrat.jpg?w=1200&h=-1&s=1",
+              "https://sayr.com.pk/uploads/images/image_750x_63d3aa516bd3c.jpg",
+              "https://thesilenttraveler.com/wp-content/uploads/2019/05/Katora-Lake-Jahaz-Banda-Meadows-and-Kumrat-valley-trip.jpg"
+            ],
+            "description": "Immerse yourself in the untouched natural beauty of Kumrat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in eco-friendly lodges",
+                "Guided nature walks",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kumrat, check-in to lodge",
+                "Day 2-4: Explore natural landscapes and local attractions",
+                "Day 5: Departure from Kumrat"
+              ]
+            }
+          },
+          {
+            "id": "kumrat2",
+            "package_name": "Adventure Trek",
+            "city": "Kumrat",
+            "duration": "7 days",
+            "price": 70000,
+            "image_url": [
+              "https://urbanduniya.com/wp-content/uploads/Jahaz-Banda.jpg",
+              "https://elands.pk/storage/2024/03/1200px-Evening_shades-1200x867.jpg.webp",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/44/a6/valhalla-resort-kumrat.jpg?w=1200&h=-1&s=1",
+              "https://sayr.com.pk/uploads/images/image_750x_63d3aa516bd3c.jpg",
+              "https://thesilenttraveler.com/wp-content/uploads/2019/05/Katora-Lake-Jahaz-Banda-Meadows-and-Kumrat-valley-trip.jpg"
+            ],
+            "description": "Experience an adventurous trek through the scenic trails of Kumrat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Professional trekking guide",
+                "Camping equipment",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kumrat, transfer to trekking base camp",
+                "Day 2-6: Trekking through Kumrat Valley",
+                "Day 7: Return to Kumrat, leisure time",
+                "Day 8: Departure from Kumrat"
+              ]
+            }
+          },
+          {
+            "id": "kumrat3",
+            "package_name": "Family Getaway",
+            "city": "Kumrat",
+            "duration": "6 days",
+            "price": 60000,
+            "image_url": [
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/44/a6/valhalla-resort-kumrat.jpg?w=1200&h=-1&s=1",
+              "https://elands.pk/storage/2024/03/1200px-Evening_shades-1200x867.jpg.webp",
+              "https://urbanduniya.com/wp-content/uploads/Jahaz-Banda.jpg",
+              "https://sayr.com.pk/uploads/images/image_750x_63d3aa516bd3c.jpg",
+              "https://thesilenttraveler.com/wp-content/uploads/2019/05/Katora-Lake-Jahaz-Banda-Meadows-and-Kumrat-valley-trip.jpg"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the serene landscapes of Kumrat Valley.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kumrat, check-in to family-friendly accommodations",
+                "Day 2-5: Family-friendly activities and sightseeing",
+                "Day 6: Departure from Kumrat"
+              ]
+            }
+          },
+          {
+            "id": "kumrat4",
+            "package_name": "Cultural Exploration",
+            "city": "Kumrat",
+            "duration": "4 days",
+            "price": 50000,
+            "image_url": [
+              "https://sayr.com.pk/uploads/images/image_750x_63d3aa516bd3c.jpg",
+              "https://elands.pk/storage/2024/03/1200px-Evening_shades-1200x867.jpg.webp",
+              "https://urbanduniya.com/wp-content/uploads/Jahaz-Banda.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/44/a6/valhalla-resort-kumrat.jpg?w=1200&h=-1&s=1",
+              "https://thesilenttraveler.com/wp-content/uploads/2019/05/Katora-Lake-Jahaz-Banda-Meadows-and-Kumrat-valley-trip.jpg"
+            ],
+            "description": "Delve into the rich cultural heritage of the Kumrat region.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of historical and cultural sites",
+                "Visits to local villages and communities",
+                "Traditional music and dance performances",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Alcoholic beverages"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kumrat, check-in to hotel",
+                "Day 2-3: Explore cultural sites and local communities",
+                "Day 4: Departure from Kumrat"
+              ]
+            }
+          },
+          {
+            "id": "kumrat5",
+            "package_name": "Photography Tour",
+            "city": "Kumrat",
+            "duration": "5 days",
+            "price": 55000,
+            "image_url": [
+              "https://thesilenttraveler.com/wp-content/uploads/2019/05/Katora-Lake-Jahaz-Banda-Meadows-and-Kumrat-valley-trip.jpg",
+              "https://elands.pk/storage/2024/03/1200px-Evening_shades-1200x867.jpg.webp",
+              "https://urbanduniya.com/wp-content/uploads/Jahaz-Banda.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/44/a6/valhalla-resort-kumrat.jpg?w=1200&h=-1&s=1",
+              "https://sayr.com.pk/uploads/images/image_750x_63d3aa516bd3c.jpg"
+            ],
+            "description": "Capture the stunning beauty of Kumrat Valley on a guided photography tour.",
+            "big_description": "Embark on an unforgettable journey to the breathtaking Swat Valley, often referred to as the 'Switzerland of Pakistan.' This tour combines natural beauty with cultural richness, offering scenic views, historical sites, and vibrant local traditions. Enjoy the tranquility of Swat's lush landscapes while immersing yourself in its rich heritage.    ",
+            "details": {
+              "tour_inclusion": [
+                "Professional photography guide",
+                "Photography workshops",
+                "Transportation throughout the tour",
+                "Accommodation in scenic locations",
+                "Meals as per itinerary",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kumrat, check-in to hotel",
+                "Day 2-4: Photography sessions in various locations",
+                "Day 5: Departure from Kumrat"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"cJ0mP5vRzK",
+        "name": "Skardu Adventure",
+        "city": "Skardu",
+        "description": "Embark on an adventurous journey to the stunning landscapes of Skardu.",
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Skardu-Valley-Image.webp",
+        "packages": [
+          {
+            "id": "skardu1",
+            "package_name": "Trekking Expedition",
+            "city": "Skardu",
+            "duration": "7 days",
+            "price": 65000,
+            "image_url": [
+              "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg",
+              "https://pakrism.pk/wp-content/uploads/2023/03/Skardu-5-scaled.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/photo-gallery/imported_from_media_libray/skardu-valley-tour-3.jpeg?bwg=1666359577",
+              "https://www.datocms-assets.com/55179/1694020924-brumbramah.jpg",
+              "https://www.travelex.ae/wp-content/uploads/2023/01/2022_07_07_18_59_IMG_1480-min-1024x576.jpg"
+            ],
+            "description": "Experience the thrill of trekking amidst the majestic mountains of Skardu.",
+            "big_description": "Embark on a thrilling adventure to Skardu, the gateway to some of the world's most iconic mountain ranges. This tour is designed for nature lovers and adventure enthusiasts, featuring breathtaking landscapes, serene lakes, and towering peaks. Experience the unique blend of tranquility and excitement that Skardu has to offer, with opportunities for trekking, boating, and cultural exploration.",
+            "details": {
+              "tour_inclusion": [
+                "Professional trekking guide",
+                "Camping equipment",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Skardu, transfer to trekking base camp",
+                "Day 2-6: Trekking to various scenic spots",
+                "Day 7: Return to Skardu, leisure time",
+                "Day 8: Departure from Skardu"
+              ]
+            }
+          },
+          {
+            "id": "skardu2",
+            "package_name": "Cultural Exploration",
+            "city": "Skardu",
+            "duration": "5 days",
+            "price": 55000,
+            "image_url": [
+              "https://pakrism.pk/wp-content/uploads/2023/03/Skardu-5-scaled.jpg",
+              "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/photo-gallery/imported_from_media_libray/skardu-valley-tour-3.jpeg?bwg=1666359577",
+              "https://www.datocms-assets.com/55179/1694020924-brumbramah.jpg",
+              "https://www.travelex.ae/wp-content/uploads/2023/01/2022_07_07_18_59_IMG_1480-min-1024x576.jpg"
+            ],
+            "description": "Immerse yourself in the rich culture and heritage of Skardu.",
+            "big_description": "Embark on a thrilling adventure to Skardu, the gateway to some of the world's most iconic mountain ranges. This tour is designed for nature lovers and adventure enthusiasts, featuring breathtaking landscapes, serene lakes, and towering peaks. Experience the unique blend of tranquility and excitement that Skardu has to offer, with opportunities for trekking, boating, and cultural exploration.",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of historical sites",
+                "Visits to local villages and communities",
+                "Traditional music and dance performances",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Alcoholic beverages"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Skardu, check-in to hotel",
+                "Day 2-4: Explore historical sites and cultural landmarks",
+                "Day 5: Departure from Skardu"
+              ]
+            }
+          },
+          {
+            "id": "skardu3",
+            "package_name": "Family Retreat",
+            "city": "Skardu",
+            "duration": "6 days",
+            "price": 60000,
+            "image_url": [
+              "https://www.apricottours.pk/wp-content/uploads/photo-gallery/imported_from_media_libray/skardu-valley-tour-3.jpeg?bwg=1666359577",
+              "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg",
+              "https://pakrism.pk/wp-content/uploads/2023/03/Skardu-5-scaled.jpg",
+              "https://www.datocms-assets.com/55179/1694020924-brumbramah.jpg",
+              "https://www.travelex.ae/wp-content/uploads/2023/01/2022_07_07_18_59_IMG_1480-min-1024x576.jpg"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the scenic beauty of Skardu.",
+            "big_description": "Embark on a thrilling adventure to Skardu, the gateway to some of the world's most iconic mountain ranges. This tour is designed for nature lovers and adventure enthusiasts, featuring breathtaking landscapes, serene lakes, and towering peaks. Experience the unique blend of tranquility and excitement that Skardu has to offer, with opportunities for trekking, boating, and cultural exploration.",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Skardu, check-in to family-friendly hotel",
+                "Day 2-5: Family-friendly activities and sightseeing",
+                "Day 6: Departure from Skardu"
+              ]
+            }
+          },
+          {
+            "id": "skardu4",
+            "package_name": "Adventure Camping",
+            "city": "Skardu",
+            "duration": "4 days",
+            "price": 50000,
+            "image_url": [
+              "https://www.datocms-assets.com/55179/1694020924-brumbramah.jpg",
+              "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg",
+              "https://pakrism.pk/wp-content/uploads/2023/03/Skardu-5-scaled.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/photo-gallery/imported_from_media_libray/skardu-valley-tour-3.jpeg?bwg=1666359577",
+              "https://www.travelex.ae/wp-content/uploads/2023/01/2022_07_07_18_59_IMG_1480-min-1024x576.jpg"
+            ],
+            "description": "Experience the thrill of camping amidst the rugged terrain of Skardu.",
+            "big_description": "Embark on a thrilling adventure to Skardu, the gateway to some of the world's most iconic mountain ranges. This tour is designed for nature lovers and adventure enthusiasts, featuring breathtaking landscapes, serene lakes, and towering peaks. Experience the unique blend of tranquility and excitement that Skardu has to offer, with opportunities for trekking, boating, and cultural exploration.",
+            "details": {
+              "tour_inclusion": [
+                "Camping equipment",
+                "Guided camping experience",
+                "All meals during camping",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Skardu, transfer to camping site",
+                "Day 2-3: Camping and exploration",
+                "Day 4: Departure from Skardu"
+              ]
+            }
+          },
+          {
+            "id": "skardu5",
+            "package_name": "Sightseeing Tour",
+            "city": "Skardu",
+            "duration": "3 days",
+            "price": 45000,
+            "image_url": [
+              "https://www.travelex.ae/wp-content/uploads/2023/01/2022_07_07_18_59_IMG_1480-min-1024x576.jpg",
+              "https://www.karakorumexpedition.com/wp-content/uploads/810_3442.jpg",
+              "https://pakrism.pk/wp-content/uploads/2023/03/Skardu-5-scaled.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/photo-gallery/imported_from_media_libray/skardu-valley-tour-3.jpeg?bwg=1666359577",
+              "https://www.datocms-assets.com/55179/1694020924-brumbramah.jpg"
+            ],
+            "description": "Explore the breathtaking natural beauty and landmarks of Skardu.",
+            "big_description": "Embark on a thrilling adventure to Skardu, the gateway to some of the world's most iconic mountain ranges. This tour is designed for nature lovers and adventure enthusiasts, featuring breathtaking landscapes, serene lakes, and towering peaks. Experience the unique blend of tranquility and excitement that Skardu has to offer, with opportunities for trekking, boating, and cultural exploration.",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of scenic spots",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Skardu, check-in to hotel",
+                "Day 2: Explore scenic spots",
+                "Day 3: Departure from Skardu"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"xQ8nW4tZpB",
+        "name": "Fairy Meadows Expedition",
+        "city": "Gilgit",
+        "description": "Embark on an unforgettable journey to the magical Fairy Meadows.",
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Fairy-Meadows-Image.webp",
+        "packages": [
+          {
+            "id": "fairy1",
+            "package_name": "Classic Fairy Meadows",
+            "city": "Gilgit",
+            "duration": "6 days",
+            "price": 55000,
+            "image_url": [
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/29200210/DSCF6957-1024x682.jpg",
+              "https://www.jasminetours.com/wp-content/uploads/2023/09/1200px-Nanga_Parbat_The_Killer_Mountain-1.jpg",
+              "https://sairaalikhan.wordpress.com/wp-content/uploads/2014/07/img_0947.jpg?w=1900",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Camping_at_fairy_meadows.jpg/1280px-Camping_at_fairy_meadows.jpg"
+            ],
+            "description": "Experience the enchanting beauty of Fairy Meadows with this classic tour.",
+            "big_description": "Step into the fairy-tale world of Fairy Meadows, where lush green meadows meet the towering Nanga Parbat. This tour is perfect for trekking enthusiasts and nature lovers, offering a serene escape into one of Pakistan's most beautiful landscapes. Camp under the stars, hike through pristine trails, and experience the magic of Fairy Meadows.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in cozy cottages",
+                "Transportation throughout the tour",
+                "Guided trek to Fairy Meadows",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Gilgit, transfer to hotel",
+                "Day 2: Trek to Fairy Meadows base camp",
+                "Day 3: Explore Fairy Meadows and Nanga Parbat view",
+                "Day 4: Trek back to base camp",
+                "Day 5: Return to Gilgit, leisure time",
+                "Day 6: Departure from Gilgit"
+              ]
+            }
+          },
+          {
+            "id": "fairy2",
+            "package_name": "Adventure Trek",
+            "city": "Gilgit",
+            "duration": "8 days",
+            "price": 70000,
+            "image_url": [
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/29200210/DSCF6957-1024x682.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg",
+              "https://www.jasminetours.com/wp-content/uploads/2023/09/1200px-Nanga_Parbat_The_Killer_Mountain-1.jpg",
+              "https://sairaalikhan.wordpress.com/wp-content/uploads/2014/07/img_0947.jpg?w=1900",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Camping_at_fairy_meadows.jpg/1280px-Camping_at_fairy_meadows.jpg"
+            ],
+            "description": "Embark on a thrilling adventure trek to Fairy Meadows and beyond.",
+            "big_description": "Step into the fairy-tale world of Fairy Meadows, where lush green meadows meet the towering Nanga Parbat. This tour is perfect for trekking enthusiasts and nature lovers, offering a serene escape into one of Pakistan's most beautiful landscapes. Camp under the stars, hike through pristine trails, and experience the magic of Fairy Meadows.",
+            "details": {
+              "tour_inclusion": [
+                "Professional trekking guide",
+                "Camping equipment",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Gilgit, transfer to trekking base camp",
+                "Day 2-6: Trekking to Fairy Meadows and surrounding areas",
+                "Day 7: Return to Gilgit, leisure time",
+                "Day 8: Departure from Gilgit"
+              ]
+            }
+          },
+          {
+            "id": "fairy3",
+            "package_name": "Photography Expedition",
+            "city": "Gilgit",
+            "duration": "5 days",
+            "price": 60000,
+            "image_url": [
+              "https://www.jasminetours.com/wp-content/uploads/2023/09/1200px-Nanga_Parbat_The_Killer_Mountain-1.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/29200210/DSCF6957-1024x682.jpg",
+              "https://sairaalikhan.wordpress.com/wp-content/uploads/2014/07/img_0947.jpg?w=1900",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Camping_at_fairy_meadows.jpg/1280px-Camping_at_fairy_meadows.jpg"
+            ],
+            "description": "Capture the mystical beauty of Fairy Meadows through your lens.",
+            "big_description": "Step into the fairy-tale world of Fairy Meadows, where lush green meadows meet the towering Nanga Parbat. This tour is perfect for trekking enthusiasts and nature lovers, offering a serene escape into one of Pakistan's most beautiful landscapes. Camp under the stars, hike through pristine trails, and experience the magic of Fairy Meadows.",
+            "details": {
+              "tour_inclusion": [
+                "Photography guidance by professional photographer",
+                "Visit to prime photography locations",
+                "Transportation throughout the tour",
+                "Accommodation in photographer-friendly cottages",
+                "Meals as per itinerary",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal photography equipment",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Photography workshops (can be arranged at an additional cost)"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Gilgit, check-in to photography-friendly cottages",
+                "Day 2-4: Photography sessions at various locations",
+                "Day 5: Departure from Gilgit"
+              ]
+            }
+          },
+          {
+            "id": "fairy4",
+            "package_name": "Family Retreat",
+            "city": "Gilgit",
+            "duration": "7 days",
+            "price": 65000,
+            "image_url": [
+              "https://sairaalikhan.wordpress.com/wp-content/uploads/2014/07/img_0947.jpg?w=1900",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/29200210/DSCF6957-1024x682.jpg",
+              "https://www.jasminetours.com/wp-content/uploads/2023/09/1200px-Nanga_Parbat_The_Killer_Mountain-1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Camping_at_fairy_meadows.jpg/1280px-Camping_at_fairy_meadows.jpg"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the serene landscapes of Fairy Meadows.",
+            "big_description": "Step into the fairy-tale world of Fairy Meadows, where lush green meadows meet the towering Nanga Parbat. This tour is perfect for trekking enthusiasts and nature lovers, offering a serene escape into one of Pakistan's most beautiful landscapes. Camp under the stars, hike through pristine trails, and experience the magic of Fairy Meadows.",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Gilgit, check-in to family-friendly cottages",
+                "Day 2-6: Family-friendly activities and sightseeing",
+                "Day 7: Departure from Gilgit"
+              ]
+            }
+          },
+          {
+            "id": "fairy5",
+            "package_name": "Camping Experience",
+            "city": "Gilgit",
+            "duration": "4 days",
+            "price": 45000,
+            "image_url": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Camping_at_fairy_meadows.jpg/1280px-Camping_at_fairy_meadows.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/07043754/DJI_0347-1.jpg",
+              "https://cdn.offtheatlas.com/wp-content/uploads/2021/09/29200210/DSCF6957-1024x682.jpg",
+              "https://www.jasminetours.com/wp-content/uploads/2023/09/1200px-Nanga_Parbat_The_Killer_Mountain-1.jpg",
+              "https://sairaalikhan.wordpress.com/wp-content/uploads/2014/07/img_0947.jpg?w=1900"
+            ],
+            "description": "Spend quality time under the stars with this adventurous camping experience.",
+            "big_description": "Step into the fairy-tale world of Fairy Meadows, where lush green meadows meet the towering Nanga Parbat. This tour is perfect for trekking enthusiasts and nature lovers, offering a serene escape into one of Pakistan's most beautiful landscapes. Camp under the stars, hike through pristine trails, and experience the magic of Fairy Meadows.",
+            "details": {
+              "tour_inclusion": [
+                "Camping equipment",
+                "Guided camping experience",
+                "All meals during camping",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Gilgit, transfer to camping site",
+                "Day 2-3: Camping at Fairy Meadows, explore surroundings",
+                "Day 4: Departure from Gilgit"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"yU3kV1oLmF",
+        "name": "Hunza Valley Exploration",
+        "city": "Hunza",
+        "description": "Explore the breathtaking beauty of Hunza Valley with this amazing tour.",
+       
+        "image_url": "https://pakistantourntravel.com/wp-content/uploads/2024/01/Hunza-Valley-Image.webp",
+        "packages": [
+          {
+            "id": "hunza1",
+            "package_name": "Classic Hunza",
+            "city": "Hunza",
+            "duration": "5 days",
+            "price": 50000,
+            "image_url": [
+              "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+              "https://gulmitcontinentalhotel.com/wp-content/uploads/2023/02/Biking-in-Hunza-Valley.jpg",
+              "https://hunzaadventuretours.com/wp-content/uploads/2022/04/Karimabad-Hunza-Valley.jpg",
+              "https://www.pakvoyager.com/uploads/0000/18/2022/02/10/passu-cones-hunza-valley.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/2017/03/best-hotel-in-hunza-eagle-nest-1.jpg"
+            ],
+            "description": "Experience the essence of Hunza Valley in this classic tour.",
+            "big_description": "Discover the enchanting Hunza Valley, where nature's grandeur meets rich cultural heritage. This tour takes you through the picturesque landscapes of Hunza, offering a perfect blend of adventure and cultural immersion. Explore ancient forts, savor traditional cuisine, and engage with the warm local community, making your journey both exhilarating and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Transportation throughout the tour",
+                "Guided tours of Hunza Valley landmarks",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Hunza, check-in to hotel",
+                "Day 2: Visit Baltit Fort and Altit Fort",
+                "Day 3: Excursion to Khunjerab Pass",
+                "Day 4: Explore Attabad Lake and Passu Cones",
+                "Day 5: Departure from Hunza"
+              ]
+            }
+          },
+          {
+            "id": "hunza2",
+            "package_name": "Adventure Hunza",
+            "city": "Hunza",
+            "duration": "7 days",
+            "price": 75000,
+            "image_url": [
+              "https://gulmitcontinentalhotel.com/wp-content/uploads/2023/02/Biking-in-Hunza-Valley.jpg",
+              "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+              "https://hunzaadventuretours.com/wp-content/uploads/2022/04/Karimabad-Hunza-Valley.jpg",
+              "https://www.pakvoyager.com/uploads/0000/18/2022/02/10/passu-cones-hunza-valley.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/2017/03/best-hotel-in-hunza-eagle-nest-1.jpg"
+            ],
+            "description": "Embark on an adventurous journey through the stunning landscapes of Hunza Valley.",
+            "big_description": "Discover the enchanting Hunza Valley, where nature's grandeur meets rich cultural heritage. This tour takes you through the picturesque landscapes of Hunza, offering a perfect blend of adventure and cultural immersion. Explore ancient forts, savor traditional cuisine, and engage with the warm local community, making your journey both exhilarating and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Trekking equipment",
+                "Camping gear",
+                "Experienced trekking guide",
+                "All meals during trekking",
+                "Transportation throughout the tour",
+                "Accommodation in tents/camps"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Additional activities not included in the trekking itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Hunza, transfer to trekking base camp",
+                "Day 2-5: Trekking through Hunza Valley, overnight camping",
+                "Day 6: Return to Hunza, relax in hotel",
+                "Day 7: Departure from Hunza"
+              ]
+            }
+          },
+          {
+            "id": "hunza3",
+            "package_name": "Cultural Hunza",
+            "city": "Hunza",
+            "duration": "4 days",
+            "price": 45000,
+            "image_url": [
+              "https://hunzaadventuretours.com/wp-content/uploads/2022/04/Karimabad-Hunza-Valley.jpg",
+              "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+              "https://gulmitcontinentalhotel.com/wp-content/uploads/2023/02/Biking-in-Hunza-Valley.jpg",
+              "https://www.pakvoyager.com/uploads/0000/18/2022/02/10/passu-cones-hunza-valley.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/2017/03/best-hotel-in-hunza-eagle-nest-1.jpg"
+            ],
+            "description": "Immerse yourself in the rich cultural heritage of Hunza Valley.",
+            "big_description": "Discover the enchanting Hunza Valley, where nature's grandeur meets rich cultural heritage. This tour takes you through the picturesque landscapes of Hunza, offering a perfect blend of adventure and cultural immersion. Explore ancient forts, savor traditional cuisine, and engage with the warm local community, making your journey both exhilarating and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Visits to local villages and communities",
+                "Traditional music and dance performances",
+                "Interaction with local artisans",
+                "Guided tours of historical sites",
+                "Meals as per itinerary",
+                "Transportation throughout the tour"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Alcoholic beverages"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Hunza, check-in to hotel",
+                "Day 2: Visit local villages and historical sites",
+                "Day 3: Experience traditional music and dance performances",
+                "Day 4: Departure from Hunza"
+              ]
+            }
+          },
+          {
+            "id": "hunza4",
+            "package_name": "Photography Expedition",
+            "city": "Hunza",
+            "duration": "6 days",
+            "price": 60000,
+            "image_url": [
+              "https://www.pakvoyager.com/uploads/0000/18/2022/02/10/passu-cones-hunza-valley.jpg",
+              "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+              "https://gulmitcontinentalhotel.com/wp-content/uploads/2023/02/Biking-in-Hunza-Valley.jpg",
+              "https://hunzaadventuretours.com/wp-content/uploads/2022/04/Karimabad-Hunza-Valley.jpg",
+              "https://www.apricottours.pk/wp-content/uploads/2017/03/best-hotel-in-hunza-eagle-nest-1.jpg"
+            ],
+            "description": "Capture the mesmerizing beauty of Hunza Valley through your lens.",
+            "big_description": "Discover the enchanting Hunza Valley, where nature's grandeur meets rich cultural heritage. This tour takes you through the picturesque landscapes of Hunza, offering a perfect blend of adventure and cultural immersion. Explore ancient forts, savor traditional cuisine, and engage with the warm local community, making your journey both exhilarating and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Photography guidance by professional photographer",
+                "Visit to prime photography locations",
+                "Transportation throughout the tour",
+                "Accommodation in photographer-friendly hotels",
+                "Meals as per itinerary",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal photography equipment",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary",
+                "Photography workshops (can be arranged at an additional cost)"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Hunza, check-in to hotel",
+                "Day 2-5: Photography sessions at various locations",
+                "Day 6: Departure from Hunza"
+              ]
+            }
+          },
+          {
+            "id": "hunza5",
+            "package_name": "Family Retreat",
+            "city": "Hunza",
+            "duration": "8 days",
+            "price": 80000,
+            "image_url": [
+              "https://www.apricottours.pk/wp-content/uploads/2017/03/best-hotel-in-hunza-eagle-nest-1.jpg",
+              "https://images.trvl-media.com/lodging/83000000/82810000/82808500/82808451/3ce92f1b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+              "https://gulmitcontinentalhotel.com/wp-content/uploads/2023/02/Biking-in-Hunza-Valley.jpg",
+              "https://hunzaadventuretours.com/wp-content/uploads/2022/04/Karimabad-Hunza-Valley.jpg",
+              "https://www.pakvoyager.com/uploads/0000/18/2022/02/10/passu-cones-hunza-valley.jpg"
+            ],
+            "description": "Enjoy a memorable family vacation amidst the serene landscapes of Hunza Valley.",
+            "big_description": "Discover the enchanting Hunza Valley, where nature's grandeur meets rich cultural heritage. This tour takes you through the picturesque landscapes of Hunza, offering a perfect blend of adventure and cultural immersion. Explore ancient forts, savor traditional cuisine, and engage with the warm local community, making your journey both exhilarating and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Family-friendly accommodations",
+                "Sightseeing tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Hunza, check-in to family hotel",
+                "Day 2-7: Family-friendly activities and sightseeing",
+                "Day 8: Departure from Hunza"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mainData": [
+      {
+        "name": "Sindh",
+        "description": "Sindh, located in southeastern Pakistan, is known for its rich cultural heritage, historical significance, and vibrant traditions. Home to the ancient Indus Valley Civilization site of Mohenjo-daro and the bustling metropolis of Karachi, Sindh offers a fascinating blend of ancient history and modernity.",
+        "image_url": "https://media.istockphoto.com/id/184944186/photo/quaid-e-azam.jpg?b=1&s=612x612&w=0&k=20&c=-U-VkXI9_caIvaFDK8mVCPs41F0CO_3PvzyZWm7zIE0="
+      },
+      {
+        "id":"aT7pH9dXjC",
+        "name": "Karachi Heritage Tour",
+        "city": "Karachi",
+        "description": "Explore the rich cultural and historical heritage of Karachi with this captivating tour.",
+        "image_url": "http://heritage.eftsindh.com/sites/karachi/images/kothari-parade-01.jpg",
+        "packages": [
+          {
+            "id": "karachi1",
+            "package_name": "Historic Karachi",
+            "city": "Karachi",
+            "duration": "3 days",
+            "price": 30000,
+            "image_url": [
+              "https://rising-pakistan.com/wp-content/uploads/2021/07/Mohatta-Palace-Side-view-1024x683.jpg",
+              "https://media.istockphoto.com/id/184944186/photo/quaid-e-azam.jpg?b=1&s=612x612&w=0&k=20&c=-U-VkXI9_caIvaFDK8mVCPs41F0CO_3PvzyZWm7zIE0=",
+              "https://wpassets.graana.com/blog/wp-content/uploads/2023/02/karachi-frere-hall-karachi-frere-hall-british-colonial-era-picturesque-view-building-cloudy-day-167704318.jpg",
+              "http://starship.com.pk/wp-content/uploads/2016/08/karachi-port2.jpg",
+              "https://prestinetravels.com/wp-content/uploads/2022/11/Empress-Market-Karachi-2023.png"
+            ],
+            "description": "Experience the historic landmarks of Karachi in this short yet comprehensive tour.",
+            "big_description": "Discover the vibrant city of Karachi, where historical landmarks meet modern attractions. This tour takes you through the bustling streets, iconic monuments, and cultural hotspots of Karachi, offering a perfect blend of history and urban exploration. Enjoy the diverse cuisine, visit museums, and experience the dynamic local culture, making your journey both enlightening and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Transportation throughout the tour",
+                "Guided tours of Karachi landmarks",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to hotel, visit Mohatta Palace",
+                "Day 2: Tour of Quaid-e-Azam's Mausoleum, Frere Hall, and Karachi Port",
+                "Day 3: Explore Empress Market, departure from Karachi"
+              ]
+            }
+          },
+          {
+            "id": "karachi2",
+            "package_name": "Cultural Karachi",
+            "city": "Karachi",
+            "duration": "5 days",
+            "price": 50000,
+            "image_url": [
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/10/All-You-Need-to-Know-About-Arts-Council-Karachi-C-05-10.jpg",
+              "https://luckyone.com.pk/wp-content/uploads/2021/01/DSC02416-scaled.jpg",
+              "https://www.chapmantaylor.com/uploads/Dolmen_Lahore_CT2730-view-02a-190911.jpg",
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/07/Sea-View-Karachi-E-14-07-1024x640.jpg",
+              "https://prestinetravels.com/wp-content/uploads/2022/11/Lighthouse-Karachi-Pakistan-2023.jpg"
+            ],
+            "description": "Immerse yourself in the cultural diversity of Karachi with this extensive tour.",
+            "big_description": "Discover the vibrant city of Karachi, where historical landmarks meet modern attractions. This tour takes you through the bustling streets, iconic monuments, and cultural hotspots of Karachi, offering a perfect blend of history and urban exploration. Enjoy the diverse cuisine, visit museums, and experience the dynamic local culture, making your journey both enlightening and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Transportation throughout the tour",
+                "Guided cultural tours",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to hotel",
+                "Day 2: Visit Karachi Arts Council and local art galleries",
+                "Day 3: Explore shopping malls and local markets",
+                "Day 4: Relax at Clifton Beach and visit Port Grand",
+                "Day 5: Departure from Karachi"
+              ]
+            }
+          },
+          {
+            "id": "karachi3",
+            "package_name": "Karachi by Night",
+            "city": "Karachi",
+            "duration": "2 days",
+            "price": 20000,
+            "image_url": [
+              "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg",
+              "https://4.bp.blogspot.com/-sPUjueQKJ3A/UOCK4_UP-cI/AAAAAAAABGI/R-_E18EE1aI/s1600/Port+Grand+by+Night,+Karachi,+Pakistan..jpg",
+              "https://www.brandsynario.com/wp-content/uploads/Charcoal-BBQ-n-Grill-Restaurant-at-Do-Darya-DHA-Karachi-.jpg",
+              "https://2.bp.blogspot.com/-76LzVCHEf7A/V-A5XwZwVBI/AAAAAAAAASU/dTUAcx7bs8oJbYo19zJdCMNgU_behxSEgCLcB/s1600/Bahria-Town-Icon-Karachi-BticondotCom.jpg",
+              "https://th-thumbnailer.cdn-si-edu.com/IclutViWY7dL-36Cv_zXP2GIFAM=/fit-in/1072x0/https://tf-cmsv2-photocontest-smithsonianmag-prod-approved.s3.amazonaws.com/2da9180e-157c-4c67-9f3b-9ccd4039ec8d.jpg"
+            ],
+            "description": "Experience the vibrant nightlife of Karachi with this exciting tour.",
+            "big_description": "Discover the vibrant city of Karachi, where historical landmarks meet modern attractions. This tour takes you through the bustling streets, iconic monuments, and cultural hotspots of Karachi, offering a perfect blend of history and urban exploration. Enjoy the diverse cuisine, visit museums, and experience the dynamic local culture, making your journey both enlightening and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Night tours of Karachi landmarks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to hotel, night tour of Karachi",
+                "Day 2: Evening at Port Grand, dinner at Do Darya, departure from Karachi"
+              ]
+            }
+          },
+          {
+            "id": "karachi4",
+            "package_name": "Karachi Beaches",
+            "city": "Karachi",
+            "duration": "4 days",
+            "price": 40000,
+            "image_url": [
+              "https://dailytimes.com.pk/assets/uploads/2017/11/25/Clifton-Beach.jpg",
+              "https://i.pinimg.com/originals/bc/24/4a/bc244a158057680d574b31bdfcd3472b.jpg",
+              "https://rocketourism.com/wp-content/uploads/HawksBay-Beach-Karachi.jpg",
+              "https://live.staticflickr.com/5572/15305829126_124c2f983c_b.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-C-13-03-1024x640.jpg"
+            ],
+            "description": "Enjoy the sun, sea, and sand with this beach-centric tour of Karachi.",
+            "big_description": "Discover the vibrant city of Karachi, where historical landmarks meet modern attractions. This tour takes you through the bustling streets, iconic monuments, and cultural hotspots of Karachi, offering a perfect blend of history and urban exploration. Enjoy the diverse cuisine, visit museums, and experience the dynamic local culture, making your journey both enlightening and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in beachside hotels",
+                "Transportation throughout the tour",
+                "Guided beach tours",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to beachside hotel, visit Clifton Beach",
+                "Day 2: Full day at French Beach and Hawkesbay",
+                "Day 3: Excursion to Sandspit and Mubarak Village",
+                "Day 4: Departure from Karachi"
+              ]
+            }
+          },
+          {
+            "id": "karachi5",
+            "package_name": "Karachi Culinary Tour",
+            "city": "Karachi",
+            "duration": "3 days",
+            "price": 35000,
+            "image_url": [
+              "https://migrationology.com/wp-content/uploads/2018/12/pakistani-street-food-karachi.jpg",
+              "https://i.pinimg.com/474x/d8/d7/f7/d8d7f7b4a8aad18a83de68cf0ee99d5d.jpg",
+              "https://cravingzone.com/wp-content/uploads/2022/02/karachi-biryani-25.jpg",
+              "https://mappinternational.org/wp-content/uploads/2019/10/Best-karachi-traditional-restaurants-1024x768.jpg",
+              "https://en.dailypakistan.com.pk/digital_images/large/2017-01-12/karachi-eat-the-biggest-food-festival-of-pakistan-1572331257-3965.jpg"
+            ],
+            "description": "Savor the diverse and delicious cuisine of Karachi with this culinary tour.",
+            "big_description": "Discover the vibrant city of Karachi, where historical landmarks meet modern attractions. This tour takes you through the bustling streets, iconic monuments, and cultural hotspots of Karachi, offering a perfect blend of history and urban exploration. Enjoy the diverse cuisine, visit museums, and experience the dynamic local culture, making your journey both enlightening and memorable.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Guided food tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to food markets",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to hotel, street food tour",
+                "Day 2: Visit famous eateries and food markets",
+                "Day 3: Culinary workshops and cooking classes, departure from Karachi"
+              ]
+            }
+          },
+          {
+            "id": "karachi6",
+            "package_name": "Karachi Shopping Spree",
+            "city": "Karachi",
+            "duration": "3 days",
+            "price": 30000,
+            "image_url": [
+              "https://www.pakstyle.pk/images/blog/l/b33-top-shopping-malls-or-places-in-karachi_5.jpg",
+              "https://live.staticflickr.com/1302/1054704091_41d4f2dd31_b.jpg",
+              "http://heritage.eftsindh.com/sites/karachi/images/empress-market-02.jpg",
+              "https://i.pinimg.com/originals/24/1a/1b/241a1bd2726d35ca1b65cc7ff5739cf4.jpg",
+              "https://i.dawn.com/primary/2021/03/6041f0699bcaf.jpg"
+            ],
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Guided shopping tours",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Karachi, check-in to hotel, visit Empress Market",
+                "Day 2: Shopping tour of malls and bazaars",
+                "Day 3: Visit handicraft and jewelry stores, departure from Karachi"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"qS5mB2kYlG",
+        "name": "Sindh Historical Odyssey",
+        "city": "Sindh",
+        "description": "Embark on a journey through the rich history and heritage of Sindh with this comprehensive tour.",
+        "image_url": "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+        "packages": [
+          {
+            "id": "sindh1",
+            "package_name": "Mohenjo-daro Expedition",
+            "city": "Mohenjo-daro",
+            "duration": "3 days",
+            "price": 40000,
+            "image_url": [
+              "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+              "https://triptop.tours/wp-content/uploads/2020/02/F87ED926-70DD-4474-9482-C82AA2EAEBEF.jpeg",
+              "https://dailynews.com.pk/wp-content/uploads/2021/12/riEpDuq-960x636.jpeg",
+              "https://i.pinimg.com/originals/60/09/f7/6009f70fa27a4050952da473f6c83c8c.jpg",
+              "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg"
+            ],
+            "description": "Explore the ancient city of Mohenjo-daro, one of the world's oldest civilizations.",
+            "big_description": "Discover the ancient and medieval marvels of Sindh, a region rich in history and culture. This tour will take you to some of the most significant historical sites, offering a deep dive into the architectural and cultural heritage of the region. Visit ancient ruins, majestic forts, and historic cities that tell the story of Sindh's glorious past.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in nearby hotels",
+                "Transportation throughout the tour",
+                "Guided tours of Mohenjo-daro",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Mohenjo-daro, check-in to hotel, initial site visit",
+                "Day 2: Full day exploration of Mohenjo-daro ruins and museum",
+                "Day 3: Morning visit to remaining sites, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh2",
+            "package_name": "Makli Necropolis and Thatta",
+            "city": "Thatta",
+            "duration": "2 days",
+            "price": 30000,
+            "image_url": [
+              "https://triptop.tours/wp-content/uploads/2020/02/F87ED926-70DD-4474-9482-C82AA2EAEBEF.jpeg",
+              "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+              "https://dailynews.com.pk/wp-content/uploads/2021/12/riEpDuq-960x636.jpeg",
+              "https://i.pinimg.com/originals/60/09/f7/6009f70fa27a4050952da473f6c83c8c.jpg",
+              "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg"
+            ],
+            "description": "Visit the UNESCO World Heritage Site of Makli Necropolis and the historic city of Thatta.",
+            "big_description": "Discover the ancient and medieval marvels of Sindh, a region rich in history and culture. This tour will take you to some of the most significant historical sites, offering a deep dive into the architectural and cultural heritage of the region. Visit ancient ruins, majestic forts, and historic cities that tell the story of Sindh's glorious past.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in Thatta",
+                "Transportation throughout the tour",
+                "Guided tours of Makli Necropolis and Thatta",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Thatta, check-in to hotel, visit Makli Necropolis",
+                "Day 2: Explore Shah Jahan Mosque and other historical landmarks, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh3",
+            "package_name": "Ranikot Fort Adventure",
+            "city": "Ranikot",
+            "duration": "2 days",
+            "price": 25000,
+            "image_url": [
+              "https://dailynews.com.pk/wp-content/uploads/2021/12/riEpDuq-960x636.jpeg",
+              "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+              "https://triptop.tours/wp-content/uploads/2020/02/F87ED926-70DD-4474-9482-C82AA2EAEBEF.jpeg",
+              "https://i.pinimg.com/originals/60/09/f7/6009f70fa27a4050952da473f6c83c8c.jpg",
+              "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg"
+            ],
+            "description": "Discover the 'Great Wall of Sindh' at Ranikot Fort, one of the largest forts in the world.",
+            "big_description": "Discover the ancient and medieval marvels of Sindh, a region rich in history and culture. This tour will take you to some of the most significant historical sites, offering a deep dive into the architectural and cultural heritage of the region. Visit ancient ruins, majestic forts, and historic cities that tell the story of Sindh's glorious past.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in nearby guesthouses",
+                "Transportation throughout the tour",
+                "Guided tours of Ranikot Fort",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Ranikot, check-in to guesthouse, initial fort exploration",
+                "Day 2: Full day exploration of Ranikot Fort, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh4",
+            "package_name": "Sufi Shrines of Sindh",
+            "city": "Various Cities",
+            "duration": "4 days",
+            "price": 45000,
+            "image_url": [
+              "https://i.pinimg.com/originals/60/09/f7/6009f70fa27a4050952da473f6c83c8c.jpg",
+              "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+              "https://triptop.tours/wp-content/uploads/2020/02/F87ED926-70DD-4474-9482-C82AA2EAEBEF.jpeg",
+              "https://dailynews.com.pk/wp-content/uploads/2021/12/riEpDuq-960x636.jpeg",
+              "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg"
+            ],
+            "description": "Visit the famous Sufi shrines across Sindh, experiencing the spiritual and cultural heritage.",
+            "big_description": "Discover the ancient and medieval marvels of Sindh, a region rich in history and culture. This tour will take you to some of the most significant historical sites, offering a deep dive into the architectural and cultural heritage of the region. Visit ancient ruins, majestic forts, and historic cities that tell the story of Sindh's glorious past.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in multiple cities",
+                "Transportation throughout the tour",
+                "Guided tours of Sufi shrines",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival, visit Sehwan Sharif",
+                "Day 2: Visit Bhit Shah and Hala",
+                "Day 3: Visit Mirpurkhas shrines",
+                "Day 4: Visit Makli shrines, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh5",
+            "package_name": "Keenjhar Lake and Historical Sites",
+            "city": "Keenjhar Lake",
+            "duration": "3 days",
+            "price": 35000,
+            "image_url": [
+              "https://i.ytimg.com/vi/5iFNZ-X5Lw4/maxresdefault.jpg",
+              "https://i.pinimg.com/originals/60/09/f7/6009f70fa27a4050952da473f6c83c8c.jpg",
+              "https://cdn.britannica.com/65/160265-050-4A119CEC/Remains-tower-Mohenjo-daro-province-Pakistan-Sindh.jpg",
+              "https://triptop.tours/wp-content/uploads/2020/02/F87ED926-70DD-4474-9482-C82AA2EAEBEF.jpeg",
+              "https://dailynews.com.pk/wp-content/uploads/2021/12/riEpDuq-960x636.jpeg"
+            ],
+            "description": "Enjoy the serene beauty of Keenjhar Lake along with visits to nearby historical sites.",
+            "big_description": "Discover the ancient and medieval marvels of Sindh, a region rich in history and culture. This tour will take you to some of the most significant historical sites, offering a deep dive into the architectural and cultural heritage of the region. Visit ancient ruins, majestic forts, and historic cities that tell the story of Sindh's glorious past.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation near Keenjhar Lake",
+                "Transportation throughout the tour",
+                "Guided tours of historical sites and lake activities",
+                "Meals as per itinerary",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Keenjhar Lake, check-in to hotel, lake activities",
+                "Day 2: Visit historical sites in Thatta, Shah Jahan Mosque",
+                "Day 3: Morning at Keenjhar Lake, departure"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"wL9rO6jVxA",
+        "name": "Nature and Culture of Sindh",
+        "city": "Sindh",
+        "description": "Experience the diverse natural beauty and vibrant culture of Sindh with this tour.",
+        "image_url": "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg",
+        "packages": [
+          {
+            "id": "sindh6",
+            "package_name": "Keenjhar Lake Retreat",
+            "city": "Keenjhar Lake",
+            "duration": "3 days",
+            "price": 35000,
+            "image_url": [
+              "https://4.bp.blogspot.com/-JsgqiscjRqE/WbxAtJcI-_I/AAAAAAAACvk/BfRIlImeAiQtkEE2_PGgYjxUGoooopLbQCEwYBhgL/s1600/Keenjhar%2BLake.jpg",
+              "https://www.adotrip.com/public/images/areas/master_images/5f0d9473e2cfa-Thar_Desert_Attractions.jpg",
+              "https://rising-pakistan.com/wp-content/uploads/2021/04/Lal-Shahbaz-Qalandar-Sehwan-Sindh.jpg",
+              "http://2.bp.blogspot.com/-3vaRGKDfDYc/TaMNEGe-OgI/AAAAAAAAEkM/j71yV1Jf_1o/s1600/HALEJI+LAKE+sindh+by+pakistan+tourisam+%252822%2529.jpg",
+              "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg"
+            ],
+            "description": "Relax and unwind at the picturesque Keenjhar Lake.",
+            "big_description": "Explore the natural landscapes and cultural highlights of Sindh, from serene lakes to bustling bazaars and colorful festivals. This tour offers a mix of outdoor adventures and cultural experiences, showcasing the unique beauty and traditions of the region.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in lakefront resorts",
+                "Boating and fishing activities",
+                "Transportation throughout the tour",
+                "Meals as per itinerary",
+                "Guided nature walks",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Keenjhar Lake, check-in to resort, boating",
+                "Day 2: Fishing and nature walks, evening relaxation",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh7",
+            "package_name": "Thar Desert Safari",
+            "city": "Tharparkar",
+            "duration": "4 days",
+            "price": 45000,
+            "image_url": [
+              "https://www.adotrip.com/public/images/areas/master_images/5f0d9473e2cfa-Thar_Desert_Attractions.jpg",
+              "https://4.bp.blogspot.com/-JsgqiscjRqE/WbxAtJcI-_I/AAAAAAAACvk/BfRIlImeAiQtkEE2_PGgYjxUGoooopLbQCEwYBhgL/s1600/Keenjhar%2BLake.jpg",
+              "https://rising-pakistan.com/wp-content/uploads/2021/04/Lal-Shahbaz-Qalandar-Sehwan-Sindh.jpg",
+              "http://2.bp.blogspot.com/-3vaRGKDfDYc/TaMNEGe-OgI/AAAAAAAAEkM/j71yV1Jf_1o/s1600/HALEJI+LAKE+sindh+by+pakistan+tourisam+%252822%2529.jpg",
+              "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg"
+            ],
+            "description": "Explore the vibrant life and stunning landscapes of the Thar Desert.",
+            "big_description": "Explore the natural landscapes and cultural highlights of Sindh, from serene lakes to bustling bazaars and colorful festivals. This tour offers a mix of outdoor adventures and cultural experiences, showcasing the unique beauty and traditions of the region.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in desert camps",
+                "Camel rides and desert safaris",
+                "Cultural performances and village visits",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Tharparkar, check-in to desert camp, evening camel ride",
+                "Day 2: Full day desert safari and village visit",
+                "Day 3: Cultural performances and local market visit",
+                "Day 4: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh8",
+            "package_name": "Sindh Cultural Festival",
+            "city": "Various Cities",
+            "duration": "5 days",
+            "price": 50000,
+            "image_url": [
+              "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg",
+              "https://4.bp.blogspot.com/-JsgqiscjRqE/WbxAtJcI-_I/AAAAAAAACvk/BfRIlImeAiQtkEE2_PGgYjxUGoooopLbQCEwYBhgL/s1600/Keenjhar%2BLake.jpg",
+              "https://www.adotrip.com/public/images/areas/master_images/5f0d9473e2cfa-Thar_Desert_Attractions.jpg",
+              "https://rising-pakistan.com/wp-content/uploads/2021/04/Lal-Shahbaz-Qalandar-Sehwan-Sindh.jpg",
+              "http://2.bp.blogspot.com/-3vaRGKDfDYc/TaMNEGe-OgI/AAAAAAAAEkM/j71yV1Jf_1o/s1600/HALEJI+LAKE+sindh+by+pakistan+tourisam+%252822%2529.jpg"
+            ],
+            "description": "Immerse yourself in the vibrant culture and traditions of Sindh during the annual festival.",
+            "big_description": "Explore the natural landscapes and cultural highlights of Sindh, from serene lakes to bustling bazaars and colorful festivals. This tour offers a mix of outdoor adventures and cultural experiences, showcasing the unique beauty and traditions of the region.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in festival cities",
+                "Festival entry and event participation",
+                "Guided cultural tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival, check-in to hotel, opening festival ceremonies",
+                "Day 2: Cultural performances and craft workshops",
+                "Day 3: Food tours and traditional music concerts",
+                "Day 4: Local market visits and dance performances",
+                "Day 5: Closing ceremonies, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh9",
+            "package_name": "Lal Shahbaz Qalandar Urs",
+            "city": "Sehwan Sharif",
+            "duration": "3 days",
+            "price": 30000,
+           "image_url": [
+              "https://rising-pakistan.com/wp-content/uploads/2021/04/Lal-Shahbaz-Qalandar-Sehwan-Sindh.jpg",
+              "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg",
+              "https://4.bp.blogspot.com/-JsgqiscjRqE/WbxAtJcI-_I/AAAAAAAACvk/BfRIlImeAiQtkEE2_PGgYjxUGoooopLbQCEwYBhgL/s1600/Keenjhar%2BLake.jpg",
+              "https://www.adotrip.com/public/images/areas/master_images/5f0d9473e2cfa-Thar_Desert_Attractions.jpg",
+              "http://2.bp.blogspot.com/-3vaRGKDfDYc/TaMNEGe-OgI/AAAAAAAAEkM/j71yV1Jf_1o/s1600/HALEJI+LAKE+sindh+by+pakistan+tourisam+%252822%2529.jpg"
+            ],
+            "description": "Join the annual Urs festival of Lal Shahbaz Qalandar in Sehwan Sharif.",
+            "big_description": "Explore the natural landscapes and cultural highlights of Sindh, from serene lakes to bustling bazaars and colorful festivals. This tour offers a mix of outdoor adventures and cultural experiences, showcasing the unique beauty and traditions of the region.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in Sehwan Sharif",
+                "Guided tours of Urs festival events",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Sehwan Sharif, check-in to hotel, evening festival events",
+                "Day 2: Full day participation in Urs celebrations",
+                "Day 3: Morning events, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh10",
+            "package_name": "Haleji Lake Birdwatching",
+            "city": "Haleji Lake",
+            "duration": "2 days",
+            "price": 20000,
+            "image_url": [
+              "http://2.bp.blogspot.com/-3vaRGKDfDYc/TaMNEGe-OgI/AAAAAAAAEkM/j71yV1Jf_1o/s1600/HALEJI+LAKE+sindh+by+pakistan+tourisam+%252822%2529.jpg",
+              "https://www.geo.tv/assets/uploads/updates/2022-12-04/456571_9046172_updates.jpg",
+              "https://4.bp.blogspot.com/-JsgqiscjRqE/WbxAtJcI-_I/AAAAAAAACvk/BfRIlImeAiQtkEE2_PGgYjxUGoooopLbQCEwYBhgL/s1600/Keenjhar%2BLake.jpg",
+              "https://www.adotrip.com/public/images/areas/master_images/5f0d9473e2cfa-Thar_Desert_Attractions.jpg",
+              "https://rising-pakistan.com/wp-content/uploads/2021/04/Lal-Shahbaz-Qalandar-Sehwan-Sindh.jpg"
+            ],
+            "description": "Enjoy birdwatching and nature at the serene Haleji Lake.",
+            "big_description": "Explore the natural landscapes and cultural highlights of Sindh, from serene lakes to bustling bazaars and colorful festivals. This tour offers a mix of outdoor adventures and cultural experiences, showcasing the unique beauty and traditions of the region.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation near Haleji Lake",
+                "Birdwatching tours with expert guides",
+                "Boating and nature walks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Haleji Lake, check-in to hotel, birdwatching tour",
+                "Day 2: Morning birdwatching and boating, departure"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"T2fG7nLxB4",
+        "name": "Sindh's Coastal and Desert Adventure",
+        "city": "Sindh",
+        "description": "Discover the pristine coastal beauty and the adventurous desert landscapes of Sindh.",
+        "image_url": "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+        "packages": [
+          {
+            "id": "sindh11",
+            "package_name": "Gorakh Hill Station Getaway",
+            "city": "Dadu",
+            "duration": "3 days",
+            "price": 40000,
+            "image_url": [
+              "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-Cover-13-03-1.jpg",
+              "https://www.west-crete.com/dailypics/photos/992large.jpg",
+              "https://img.xcitefun.net/users/2015/01/376861,xcitefun-hingol-national-park-3.jpg",
+              "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg"
+            ],
+            "description": "Escape to the cool and serene Gorakh Hill Station.",
+            "big_description": "This tour offers an incredible blend of coastal serenity and desert adventures in Sindh. Explore the untouched beaches, experience the local fishing culture, and venture into the wild landscapes of the desert. This trip is perfect for those seeking both relaxation and thrill.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in hilltop cabins",
+                "Guided trekking and hiking tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Campfire and cultural activities",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Gorakh Hill, check-in to cabin, evening hike",
+                "Day 2: Full day trekking and exploration, campfire at night",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh12",
+            "package_name": "Mubarak Village Coastal Retreat",
+            "city": "Mubarak Village",
+            "duration": "2 days",
+            "price": 25000,
+            "image_url": [
+              "https://www.travelertrails.com/wp-content/uploads/2022/10/Mubarak-Village-2.jpg",
+              "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+              "https://www.west-crete.com/dailypics/photos/992large.jpg",
+              "https://img.xcitefun.net/users/2015/01/376861,xcitefun-hingol-national-park-3.jpg",
+              "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg"
+            ],
+            "description": "Relax and enjoy the serene beauty of Mubarak Village's coastline.",
+            "big_description": "This tour offers an incredible blend of coastal serenity and desert adventures in Sindh. Explore the untouched beaches, experience the local fishing culture, and venture into the wild landscapes of the desert. This trip is perfect for those seeking both relaxation and thrill.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in beachside huts",
+                "Boating and fishing trips",
+                "Guided village tour",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Mubarak Village, check-in to hut, boating trip",
+                "Day 2: Morning fishing and village tour, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh13",
+            "package_name": "Ranikot Fort & Lakki Mountains Exploration",
+            "city": "Ranikot",
+            "duration": "4 days",
+            "price": 50000,
+            "image_url": [
+              "https://www.west-crete.com/dailypics/photos/992large.jpg",
+              "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-Cover-13-03-1.jpg",
+              "https://img.xcitefun.net/users/2015/01/376861,xcitefun-hingol-national-park-3.jpg",
+              "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg"
+            ],
+            "description": "Explore the world's largest fort and the stunning Lakki Mountains.",
+            "big_description": "This tour offers an incredible blend of coastal serenity and desert adventures in Sindh. Explore the untouched beaches, experience the local fishing culture, and venture into the wild landscapes of the desert. This trip is perfect for those seeking both relaxation and thrill.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in local guesthouses",
+                "Guided fort and mountain tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Camping equipment",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Ranikot, check-in to guesthouse, fort tour",
+                "Day 2: Full day exploration of Ranikot Fort",
+                "Day 3: Trekking in Lakki Mountains, overnight camping",
+                "Day 4: Morning hike, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh14",
+            "package_name": "Hingol National Park Adventure",
+            "city": "Hingol",
+            "duration": "3 days",
+            "price": 45000,
+           "image_url": [
+             "https://img.xcitefun.net/users/2015/01/376861,xcitefun-hingol-national-park-3.jpg",
+              "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-Cover-13-03-1.jpg",
+              "https://www.west-crete.com/dailypics/photos/992large.jpg",
+              "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg"
+            ],
+            "description": "Experience the diverse wildlife and rugged landscapes of Hingol National Park.",
+            "big_description": "This tour offers an incredible blend of coastal serenity and desert adventures in Sindh. Explore the untouched beaches, experience the local fishing culture, and venture into the wild landscapes of the desert. This trip is perfect for those seeking both relaxation and thrill.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in park lodges",
+                "Wildlife safaris and guided tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Camping equipment",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Hingol, check-in to lodge, evening safari",
+                "Day 2: Full day wildlife and landscape exploration, overnight camping",
+                "Day 3: Morning safari, departure"
+              ]
+            }
+          },
+          {
+            "id": "sindh15",
+            "package_name": "Chotiari Reservoir Eco Tour",
+            "city": "Chotiari",
+            "duration": "3 days",
+            "price": 38000,
+            "image_url": [
+              "https://i.ytimg.com/vi/p4acqRbvIfA/maxresdefault.jpg",
+              "https://www.getout.pk/wp-content/uploads/2018/09/Gorakh-Hill-Station.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2020/03/Your-Travel-Guide-to-Mubarak-Village-Cover-13-03-1.jpg",
+              "https://www.west-crete.com/dailypics/photos/992large.jpg",
+              "https://img.xcitefun.net/users/2015/01/376861,xcitefun-hingol-national-park-3.jpg"
+            ],
+            "description": "Explore the ecological diversity and scenic beauty of Chotiari Reservoir.",
+            "big_description": "This tour offers an incredible blend of coastal serenity and desert adventures in Sindh. Explore the untouched beaches, experience the local fishing culture, and venture into the wild landscapes of the desert. This trip is perfect for those seeking both relaxation and thrill.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in eco-lodges",
+                "Boating and birdwatching tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Fishing equipment",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival at Chotiari, check-in to eco-lodge, boating trip",
+                "Day 2: Full day birdwatching and fishing",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mainData": [
+      {
+        "name": "Punjab",
+        "description": "Punjab, the most populous province of Pakistan, is celebrated for its fertile lands and cultural vibrancy. The province is the heartland of Pakistan, with Lahore as its cultural capital, offering a blend of historical landmarks, lively festivals, and rich culinary traditions.",
+        "image_url": "https://images.pexels.com/photos/6255712/pexels-photo-6255712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id":"T2fG7nMo6",
+        "name": "Punjab's Natural and Cultural Wonders",
+        "city": "Punjab",
+        "description": "Experience the diverse landscapes and rich cultural heritage of Punjab.",
+        "image_url": "https://i.pinimg.com/originals/b5/c3/76/b5c376c6897e592d66dd2816a349f902.jpg",
+        "packages": [
+          {
+            "id": "punjab21",
+            "package_name": "Cholistan Desert Safari",
+            "city": "Bahawalpur",
+            "duration": "3 days",
+            "price": 35000,
+            "image_url": [
+              "https://www.pakistantours.pk/wp-content/uploads/2017/07/cholistan.jpg",
+              "https://activetourspakistan.com/wp-content/uploads/2017/10/Cholistan-Desert-Camel-Safari.jpg",
+              "https://i.ytimg.com/vi/8olEJ1Ym3jU/maxresdefault.jpg",
+              "https://live.staticflickr.com/65535/50782975966_7635663814_b.jpg",
+              "https://www.explorerpakistan.com/wp-content/uploads/2019/09/3-1-1024x431.jpg"
+            ],
+            "description": "Embark on an exhilarating safari through the Cholistan Desert.",
+            "big_description": "This tour takes you through the vibrant culture and stunning natural beauty of Punjab. From the lush green fields and serene lakes to the bustling local markets and cultural festivities, immerse yourself in the heart of Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in desert camps",
+                "Guided desert safari tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Cultural performances",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Bahawalpur, transfer to desert camp, evening safari",
+                "Day 2: Full day desert safari and cultural activities",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab22",
+            "package_name": "Kallar Kahar Nature Retreat",
+            "city": "Kallar Kahar",
+            "duration": "2 days",
+            "price": 25000,
+            "image_url": [
+              "https://rising-pakistan.com/wp-content/uploads/2020/07/The-Reflecting-Beauty-Kallar-Kahar-Lake.jpg",
+              "https://www.explorerpakistan.com/wp-content/uploads/2020/04/Swaik-Lake-768x517.jpg",
+              "https://rising-pakistan.com/wp-content/uploads/2020/07/Kallar-Kahar-Lake-1024x576.jpg",
+              "https://live.staticflickr.com/3604/3335285483_92c65fba92_b.jpg",
+              "https://www.jagahonline.com/blog/wp-content/uploads/2021/01/kallar-kahar_cover-images.png"
+            ],
+            "description": "Relax and rejuvenate in the natural beauty of Kallar Kahar.",
+            "big_description": "This tour takes you through the vibrant culture and stunning natural beauty of Punjab. From the lush green fields and serene lakes to the bustling local markets and cultural festivities, immerse yourself in the heart of Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in lakeside cottages",
+                "Boating on Kallar Kahar Lake",
+                "Guided nature walks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Kallar Kahar, check-in to cottage, evening boat ride",
+                "Day 2: Morning nature walk, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab23",
+            "package_name": "Soon Valley Adventure",
+            "city": "Khushab",
+            "duration": "3 days",
+            "price": 40000,
+            "image_url": [
+              "https://www.getout.pk/wp-content/uploads/2019/06/Soon_Sakesar_Valley.jpg",
+              "https://i2.wp.com/visitsoonvalley.com/wp-content/uploads/2017/08/DSC_2960-2.jpg?fit=1200%2C800&ssl=1",
+              "https://www.getout.pk/pakistan/wp-content/uploads/2019/06/Soon_Sakesar_Valley.jpg",
+              "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/15/218459.jpg",
+              "https://alchetron.com/cdn/soon-valley-cb3c2ad0-8c23-4391-a3d4-550df1fb2fd-resize-750.jpg"
+            ],
+            "description": "Explore the picturesque landscapes and natural wonders of Soon Valley.",
+            "big_description": "This tour takes you through the vibrant culture and stunning natural beauty of Punjab. From the lush green fields and serene lakes to the bustling local markets and cultural festivities, immerse yourself in the heart of Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in valley lodges",
+                "Guided trekking and caving tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Fishing and boating equipment",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Soon Valley, check-in to lodge, evening trek",
+                "Day 2: Full day exploration including lakes, caves, and waterfalls",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab24",
+            "package_name": "Neelum Valley Nature Escape",
+            "city": "Muzaffarabad",
+            "duration": "4 days",
+            "price": 50000,
+            "image_url": [
+              "https://seepakistantours.com/wp-content/uploads/2019/02/Upper-Neelum-Valley-885x580.jpg",
+              "https://i.pinimg.com/originals/0b/c8/64/0bc864c9163d60d2539c0d680f202c70.jpg",
+              "https://lh3.googleusercontent.com/-425u9pOQcMw/YbvQgJISd_I/AAAAAAAAIhI/y_QQetbzso8JZK7pYCFlVNqIQu9WiHm5gCNcBGAsYHQ/w640-h500/image.png",
+              "https://www.travelstourism.com/wp-content/uploads/2018/02/Beautiful-Neelum-Valley.jpg",
+              "https://prestinetravels.com/wp-content/uploads/2021/04/3357px-Heavens_unleashed_Neelum_valley-1024x659.jpg"
+            ],
+            "description": "Immerse yourself in the lush greenery and tranquil rivers of Neelum Valley.",
+            "big_description": "This tour takes you through the vibrant culture and stunning natural beauty of Punjab. From the lush green fields and serene lakes to the bustling local markets and cultural festivities, immerse yourself in the heart of Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in riverside lodges",
+                "Guided hiking and river tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Fishing equipment",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Muzaffarabad, transfer to lodge, evening river tour",
+                "Day 2-3: Full day hiking and nature exploration",
+                "Day 4: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab25",
+            "package_name": "Murree Hills Getaway",
+            "city": "Murree",
+            "duration": "3 days",
+            "price": 45000,
+            "image_url": [
+              "https://rozefstourism.com/wp-content/uploads/2021/03/Murree-1-scaled.jpg",
+              "http://3.bp.blogspot.com/_bixrHDERXxo/TBYIZVwNMsI/AAAAAAAAAKA/Wm2T0DMyj08/s1600/mure.jpg",
+              "https://sayr.com.pk/uploads/images/image_750x_6409a296f32af.jpg",
+              "https://2.bp.blogspot.com/-jinUvSqDNZY/WE-yr59dtZI/AAAAAAAAAhI/WsHO16ZGVN8UI2FGuo9Lj6ZBBST_PJlYQCEw/s1600/Patriata%2B2.jpg",
+              "https://grandtajhotel.com/wp-content/uploads/2022/12/ezgif.com-gif-maker-1.png"
+            ],
+            "description": "Enjoy the cool, refreshing air and scenic views of Murree Hills.",
+            "big_description": "This tour takes you through the vibrant culture and stunning natural beauty of Punjab. From the lush green fields and serene lakes to the bustling local markets and cultural festivities, immerse yourself in the heart of Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in hilltop hotels",
+                "Guided hill trekking tours",
+                "Cable car rides",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Murree, check-in to hotel, evening hill trek",
+                "Day 2: Full day trekking and cable car rides",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"mW6zK1pQ9H",
+        "name": "Punjab Heritage and Nature Tour",
+        "city": "Punjab",
+        "description": "Delve into the rich heritage and serene nature spots of Punjab.",
+        "image_url": "https://i.pinimg.com/originals/dc/2b/e7/dc2be7c5fb4bd9600ee0ed2eba04d4b2.jpg",
+        "packages": [
+          {
+            "id": "punjab31",
+            "package_name": "Harappa and Ravi River Excursion",
+            "city": "Sahiwal",
+            "duration": "3 days",
+            "price": 37000,
+            "image_url": [
+              "https://www.worldhistory.org/img/c/p/1200x627/3323.jpg",
+              "https://cdn.britannica.com/71/144671-050-0EB7D5B9/Ravi-River-Chamba-India-Himachal-Pradesh.jpg",
+              "https://i.pinimg.com/originals/5e/72/55/5e7255a78a6f922975c17b9ec4119749.jpg",
+              "https://1.bp.blogspot.com/-zkLl91z1gBo/W02mxDgerRI/AAAAAAAAAYM/m1sb3gp8Ejw-Y7TMrr-Ue6Ca1UbsoNPuACLcBGAs/s640/DSC01365.JPG",
+              "https://www.harappa.com/sites/default/files/styles/galleryformatter_slide/public/images/Screen%20Shot%202012-07-24%20at%205.38.23%20PM.png"
+            ],
+            "description": "Explore the ancient civilization of Harappa and enjoy a relaxing day by the Ravi River.",
+            "big_description": "This tour offers a comprehensive exploration of Punjab's heritage sites, combined with visits to serene nature spots. Experience the historical architecture, cultural festivals, and the natural beauty that defines Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in Sahiwal hotels",
+                "Guided tours of Harappa ruins",
+                "Boat ride on the Ravi River",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Sahiwal, check-in to hotel, evening tour of Harappa museum",
+                "Day 2: Full day exploration of Harappa ruins, evening return to hotel",
+                "Day 3: Morning boat ride on Ravi River, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab32",
+            "package_name": "Lahore Gardens and Shopping Spree",
+            "city": "Lahore",
+            "duration": "2 days",
+            "price": 30000,
+            "image_url": [
+              "http://www.thehistoryhub.com/wp-content/uploads/2016/07/Shalimar-Garden.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/40/3e/39/emporium-mall-lahore.jpg?w=1200&h=-1&s=1",
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/07/Shalimar-Gardens-Lahore-B-27-07.jpg",
+              "https://2.bp.blogspot.com/-rIeo1d_5ibw/WAt85iGu_YI/AAAAAAAACaQ/webO4HthsFg-LNvx7BtDaNRoHD8i-m-JQCK4B/s1600/Food-Street-Lahore.jpg",
+              "https://www.thehistoryhub.com/wp-content/uploads/2014/05/Lahore-Fort-Photos.jpg"
+            ],
+            "description": "Stroll through the historical gardens of Lahore and indulge in a vibrant shopping experience.",
+            "big_description": "This tour offers a comprehensive exploration of Punjab's heritage sites, combined with visits to serene nature spots. Experience the historical architecture, cultural festivals, and the natural beauty that defines Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in Lahore hotels",
+                "Guided tours of Shalimar Gardens and other parks",
+                "Shopping tours in local markets",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Lahore, check-in to hotel, evening visit to Shalimar Gardens",
+                "Day 2: Full day shopping spree in local markets, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab33",
+            "package_name": "Salt Range Exploration",
+            "city": "Khewra",
+            "duration": "3 days",
+            "price": 40000,
+            "image_url": [
+              "https://i.dawn.com/primary/2019/09/5d8c5f8dd7c3d.jpg",
+              "https://www.summitpost.org/images/original/506257.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/68/70/1f/caption.jpg?w=1200&h=-1&s=1",
+              "https://bird-eyes-view.com/public/images/L2oDMnl7ROM6pAOV.jpg",
+              "https://startuppakistan.com.pk/wp-content/uploads/2021/10/a-picture-containing-outdoor-stone-description-a.jpeg"
+            ],
+            "description": "Discover the natural wonders and geological formations of the Salt Range.",
+            "big_description": "This tour offers a comprehensive exploration of Punjab's heritage sites, combined with visits to serene nature spots. Experience the historical architecture, cultural festivals, and the natural beauty that defines Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in Khewra lodges",
+                "Guided tours of Khewra Salt Mine",
+                "Trekking in the Salt Range",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Khewra, check-in to lodge, evening tour of salt mine",
+                "Day 2: Full day trekking and exploration of Salt Range",
+                "Day 3: Morning activities, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab34",
+            "package_name": "Changa Manga Forest Retreat",
+            "city": "Changa Manga",
+            "duration": "2 days",
+            "price": 28000,
+            "image_url": [
+              "https://3.bp.blogspot.com/-plNdP1rWvz8/WMhMHe1Zn3I/AAAAAAAAAms/aISS82QpAVYj6tM9T4STW-JYuj2R6kDewCLcB/s1600/Changa%2BManga%2BForest.jpg",
+              "https://c.tribune.com.pk/2017/04/4-1491850758.jpg",
+              "https://gbcdn.gharbaar.com/uploads/blogs/9002551639398720.jpg",
+              "https://www.graana.com/blog/wp-content/uploads/2022/11/changa-manga.jpg",
+              "https://3.bp.blogspot.com/-TcAUL_ezkK4/VuUz66_WsEI/AAAAAAAB6iA/t9apL97zwZ40pOES4PPhe_dQWLrC76c_Q/w1200-h630-p-k-no-nu/changa%2Bmanga%2B%25281%2529.jpg"
+            ],
+            "description": "Unwind in the tranquil environment of Changa Manga Forest.",
+            "big_description": "This tour offers a comprehensive exploration of Punjab's heritage sites, combined with visits to serene nature spots. Experience the historical architecture, cultural festivals, and the natural beauty that defines Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in forest lodges",
+                "Guided forest tours",
+                "Boating in the forest lake",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Changa Manga, check-in to lodge, evening forest tour",
+                "Day 2: Full day forest activities including boating, departure"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"X0vJ3yR8cD",  
+        "name": "Capital and Cultural Highlights Tour",
+        "city": "Islamabad and Lahore",
+        "description": "Experience the modern capital city of Islamabad and the cultural heart of Lahore.",
+        "image_url": "https://akhbarnama.com/wp-content/uploads/2019/12/islamabad-to-lahore-670x334.jpg",
+        "packages": [
+          {
+            "id": "islamabad1",
+            "package_name": "Modern Islamabad",
+            "city": "Islamabad",
+            "duration": "3 days",
+            "price": 35000,
+            "image_url": [
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/06/Faisal-Mosque-in-Islamabad-A-01-06-1024x640.jpg",
+              "https://i.dawn.com/primary/2016/10/57fb50cb57140.jpg",
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/07/Lake-View-Park-Islamabad-B-10-07.jpg",
+              "https://guidetopakistan.pk/wp-content/uploads/2021/10/Daman-e-koh1.jpg",
+              "https://farm8.staticflickr.com/7233/7039912945_711cf4e4bc_k.jpg"
+            ],
+            "description": "Discover the modern architectural marvels and serene beauty of Islamabad.",
+            "big_description": "This tour offers a blend of modern and historical experiences, taking you through the capital city of Islamabad and the cultural richness of Lahore. Enjoy the serene beauty and architectural marvels of Islamabad, followed by the vibrant cultural and historical landmarks of Lahore.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Guided tours of key landmarks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Islamabad, check-in to hotel, visit to Faisal Mosque",
+                "Day 2: Tour of Pakistan Monument, Daman-e-Koh, and Lake View Park",
+                "Day 3: Visit Saidpur Village, departure"
+              ]
+            }
+          },
+          {
+            "id": "lahore1",
+            "package_name": "Historic Lahore",
+            "city": "Lahore",
+            "duration": "4 days",
+            "price": 45000,
+            "image_url": [
+              "https://c2.staticflickr.com/2/1449/24283690465_f6c9cf54aa_k.jpg",
+              "https://pakistantourntravel.com/wp-content/uploads/2017/12/Lahore-Fort-768x576.jpg",
+              "https://i.pinimg.com/originals/1b/16/6d/1b166d83aad7ee4c4084a279b5baeb6b.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2019/08/image-1-5-1024x640.jpg",
+              "https://elmomento.pk/wp-content/uploads/2023/02/Old-Anarkali-Food-Street-Lahore.jpg"
+            ],
+            "description": "Explore the historical and cultural landmarks of Lahore.",
+            "big_description": "This tour offers a blend of modern and historical experiences, taking you through the capital city of Islamabad and the cultural richness of Lahore. Enjoy the serene beauty and architectural marvels of Islamabad, followed by the vibrant cultural and historical landmarks of Lahore.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in heritage hotels",
+                "Guided tours of historical sites",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Lahore, check-in to hotel, visit to Badshahi Mosque",
+                "Day 2: Tour of Lahore Fort and Shalimar Gardens",
+                "Day 3: Explore the Walled City and Anarkali Bazaar",
+                "Day 4: Food Street experience, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab41",
+            "package_name": "Multan - The City of Saints",
+            "city": "Multan",
+            "duration": "3 days",
+            "price": 38000,
+            "image_url": [
+              "https://i.pinimg.com/originals/02/3c/8e/023c8e88933865571386b8aadcc2b95e.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/aa/26/38/hussain-agahi-bazar.jpg?w=1200&h=1200&s=1",
+              "https://crayon.pk/wp-content/uploads/2018/03/Multan-Fort.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2019/04/image-2-126-1024x640.jpg",
+              "https://www.zameen.com/blog/wp-content/uploads/2019/06/image-1-50-1024x640.jpg"
+            ],
+            "description": "Discover the spiritual and historical landmarks of Multan.",
+            "big_description": "This tour offers a blend of modern and historical experiences, taking you through the capital city of Islamabad and the cultural richness of Lahore. Enjoy the serene beauty and architectural marvels of Islamabad, followed by the vibrant cultural and historical landmarks of Lahore.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Guided tours of key landmarks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Multan, check-in to hotel, visit to Shah Rukn-e-Alam Shrine",
+                "Day 2: Tour of Multan Fort and Hussain Agahi Bazaar",
+                "Day 3: Visit to Bahawalpur Palace, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab42",
+            "package_name": "Faisalabad - The Manchester of Pakistan",
+            "city": "Faisalabad",
+            "dur  ation": "2 days",
+            "price": 25000,
+            "image_url": [
+              "https://i.ytimg.com/vi/5IbrD3jOd4g/maxresdefault.jpg",
+              "https://photo-cdn.urdupoint.com/media/2022/05/_3/420x350/pic_1653406603.jpg",
+              "https://www.travel-culture.com/images/faisalabad-clock-tower.jpg",
+              "https://live.staticflickr.com/4604/40427749762_85b206c870_b.jpg",
+              "https://i.pinimg.com/736x/94/72/11/947211bd6156855794afbf54d4e87dd0.jpg"
+            ],
+            "description": "Explore the industrial hub of Pakistan with its unique charm and vibrant markets.",
+            "big_description": "This tour offers a blend of modern and historical experiences, taking you through the capital city of Islamabad and the cultural richness of Lahore. Enjoy the serene beauty and architectural marvels of Islamabad, followed by the vibrant cultural and historical landmarks of Lahore.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 3-star hotels",
+                "Guided city tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Airport transfers"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Faisalabad, check-in to hotel, visit to Clock Tower and markets",
+                "Day 2: Tour of industrial sites and Gatwala Park, departure"
+              ]
+            }
+          },
+          {
+            "id": "punjab43",
+            "package_name": "Bahawalpur - Desert and Palaces",
+            "city": "Bahawalpur",
+            "duration": "3 days",
+            "price": 40000,
+            "image_url": [
+              "https://i.pinimg.com/originals/55/11/38/551138348be7cc8356f52f3fc1cc2200.jpg",
+              "https://i.dawn.com/primary/2017/01/588f320b10c93.jpg",
+              "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/ed/98/abbasi-mosque-derawar.jpg",
+              "https://temples.vibhaga.com/wp-content/uploads/2020/07/Garh-Palace-4-1024x768.jpg",
+              "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/37/4e/4a.jpg"
+            ],
+            "description": "Experience the majestic palaces and vast desert landscapes of Bahawalpur.",
+            "big_description": "This tour offers a blend of modern and historical experiences, taking you through the capital city of Islamabad and the cultural richness of Lahore. Enjoy the serene beauty and architectural marvels of Islamabad, followed by the vibrant cultural and historical landmarks of Lahore.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 4-star hotels",
+                "Guided tours of key landmarks",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Desert safari experience"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Bahawalpur, check-in to hotel, visit to Noor Mahal",
+                "Day 2: Tour of Derawar Fort and Abbasi Mosque",
+                "Day 3: Desert safari in Cholistan Desert, departure"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id":"A9tB2nY5kV",
+        "name": "Northern Punjab Adventure",
+        "city": "Murree, Rawalpindi, and Taxila",
+        "description": "Embark on an adventure through the scenic hills of Murree, the vibrant city of Rawalpindi, and the ancient ruins of Taxila.",
+        "big_description": "This tour takes you through the lush green hills of Murree, the bustling city life of Rawalpindi, and the historic ruins of Taxila. Enjoy the perfect blend of nature, culture, and history in Northern Punjab.",
+        "image_url": "https://www.zameen.com/blog/wp-content/uploads/2019/04/cover-image-3-3.jpg",
+        "packages": [
+          {
+            "id": "murree1",
+            "package_name": "Murree Hills Retreat",
+            "city": "Murree",
+            "duration": "3 days",
+            "price": 32000,
+            "image_url": [
+              "http://3.bp.blogspot.com/_bixrHDERXxo/TBYIZVwNMsI/AAAAAAAAAKA/Wm2T0DMyj08/s1600/mure.jpg",
+              "https://rozefstourism.com/wp-content/uploads/2021/03/Murree-1-scaled.jpg",
+              "https://sayr.com.pk/uploads/images/image_750x_6409a296f32af.jpg",
+              "https://2.bp.blogspot.com/-jinUvSqDNZY/WE-yr59dtZI/AAAAAAAAAhI/WsHO16ZGVN8UI2FGuo9Lj6ZBBST_PJlYQCEw/s1600/Patriata%2B2.jpg",
+              "https://grandtajhotel.com/wp-content/uploads/2022/12/ezgif.com-gif-maker-1.png"
+            ],
+            "description": "Relax and rejuvenate in the serene hills of Murree.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in hillside resorts",
+                "Guided tours of key attractions",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Cable car ride in Patriata"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Murree, check-in to resort, visit Mall Road",
+                "Day 2: Full day tour of Patriata and surrounding hills",
+                "Day 3: Relaxation and free time, departure"
+              ]
+            }
+          },
+          {
+            "id": "rawalpindi1",
+            "package_name": "Vibrant Rawalpindi",
+            "city": "Rawalpindi",
+            "duration": "2 days",
+            "price": 28000,
+            "image_url": [
+              "https://i.pinimg.com/originals/4c/a9/c7/4ca9c7feec325cf2f6699de235343708.jpg",
+              "https://propakistani.pk/wp-content/uploads/2018/03/1-127.jpg",
+              "https://davidsbeenhere.com/wp-content/uploads/2021/06/video-pindi-street-food-breakfast-of-champions-nihari-halwa-puri-in-rawalpindi-pakistan-davidsbeenhere-4.jpg",
+              "https://1.bp.blogspot.com/-3YZ9Hcz7BD8/YH8HmwlkKQI/AAAAAAAAqP8/Ly8BZYGP0ssFVwOVm1WNglXs10AhYSidgCLcBGAsYHQ/w640-h480/IMG_0241.JPG",
+              "https://bahriatown.com/wp-content/uploads/2020/06/safari-club-rwp-1-s.jpg"
+            ],
+            "description": "Explore the vibrant markets, museums, and parks of Rawalpindi.",
+            "big_description": "This tour takes you through the lush green hills of Murree, the bustling city life of Rawalpindi, and the historic ruins of Taxila. Enjoy the perfect blend of nature, culture, and history in Northern Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Accommodation in 3-star hotels",
+                "Guided city tours",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Entry tickets to attractions",
+                "Market tours"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Rawalpindi, check-in to hotel, city tour including markets",
+                "Day 2: Visit to local museums and parks, departure"
+              ]
+            }
+          },
+          {
+            "id": "taxila1",
+            "package_name": "Ancient Taxila",
+            "city": "Taxila",
+            "duration": "1 day",
+            "price": 15000,
+            "image_url": [
+              "https://img.freepik.com/premium-photo/taxila-sirkap-ruins-fortified-city-pakistan_134785-20078.jpg",
+              "https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2020/07/Taxila-Museum-Cover-23-07-1024x444.jpg",
+              "https://taxilamuseum.punjab.gov.pk/sites/default/files/inline-images/DSC09274_5_6.jpg",
+              "https://taxilamuseum.punjab.gov.pk/sites/default/files/inline-images/DJI_0044_5_6.jpg",
+              "https://taxilamuseum.punjab.gov.pk/sites/default/files/inline-images/DJI_0131_2_3.jpg"
+            ],
+            "description": "Uncover the ancient ruins and archaeological wonders of Taxila.",
+            "big_description": "This tour takes you through the lush green hills of Murree, the bustling city life of Rawalpindi, and the historic ruins of Taxila. Enjoy the perfect blend of nature, culture, and history in Northern Punjab.",
+            "details": {
+              "tour_inclusion": [
+                "Guided tours of key archaeological sites",
+                "Entry tickets to attractions",
+                "Meals as per itinerary",
+                "Transportation throughout the tour",
+                "Professional guide"
+              ],
+              "tour_exclusion": [
+                "International/domestic airfare",
+                "Personal expenses",
+                "Optional activities",
+                "Tips and gratuities",
+                "Travel insurance",
+                "Any other item not mentioned in the itinerary"
+              ],
+              "tour_itinerary": [
+                "Day 1: Arrival in Taxila, guided tours of Taxila Museum, Sirkap ruins, Jaulian Monastery, and Dharamrajika Stupa, departure"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

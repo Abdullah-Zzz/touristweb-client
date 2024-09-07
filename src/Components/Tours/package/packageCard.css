@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+}
+
+.packageCard-tripsCard {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    object-fit: cover;
+    box-shadow: 0 5px 25px 2px rgb(0, 0, 0, 0.18);
+    margin: 10px;
+}
+
+.packageCard-tripsCard img {
+    width: 100%;
+    height: auto;
+    border-top-right-radius: 5px;
+    border-top-left-radius:5px ;
+}
+.packageCard-tripsCard:hover{
+    transform: scale(1.05);
+    transition: transform 0.4s ease-in-out;
+}
+
+
+.packageCard-tripsInfo h4 {
+    font-size: 1.7rem;
+    padding: 5px 0px 3px 0px;
+
+}
+.packageCard-tripsInfo{
+    padding: 10px 10px 15px 20px;
+}
+.packageCard-city{
+    display: flex;
+    width: 100%;
+    color:RGB(128, 128, 128);
+    font-weight: bold   ;
+}
+.packageCard-city img{
+    width: 20px ;
+    height: 20px;
+    margin-right: 10px;    
+}
+.packageCard-para{
+    margin: 10px 0px 10px 0px;
+}
+.packageCard-price{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+.packageCard-perperson{
+    color:RGB(128, 128, 128) ;
+}   
+.packageCard-booknowbtn{
+    padding: 8px 10px  ;
+    background-color: rgb(213, 245, 255) ;
+    border: none    ;
+    border-radius: 2px;
+    cursor: pointer;
+}
+@media screen and (max-width:808px) {
+    .packageCard-tripsCard {
+        width: 70%;
+    }
+}
+@media screen and (max-width:560px) {
+    .packageCard-tripsCard {
+        width: 95%;
+    }
+}   

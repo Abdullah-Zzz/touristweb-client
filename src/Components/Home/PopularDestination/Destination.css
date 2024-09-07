@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+}
+
+.popularPlace-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+    overflow-x: hidden;
+}
+
+.popularPlace-destinationsHead {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.popularPlace-body h3 {
+    display: inline;
+    font-size: 3em;
+
+}
+
+.popularPlace-funDestinations {
+    width: 95%;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.popularPlace-funDestinationsReverse {
+    width: 95%;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.popularPlace-funDestinationsPara {
+    width: 40%;
+    font-size: 1.2em;
+
+}
+.popularPlace-funDestinationsPara h4 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.popularPlace-destinationsPhotos {
+    width: 50%;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.popularPlace-destinationPara{
+    font-size: 1.2em;
+}
+.popularPlace-destinationsPhotos img {
+    width: 49%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: -1px 1px 62px -18px rgba(0, 0, 0, 0.19);
+
+}
+
+.popularPlace-destinationsPhotos img:nth-child(2) {
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+}
+
+@media screen and (max-width:1100px) {
+
+    .popularPlace-funDestinations {
+
+        flex-direction: column-reverse;
+
+
+    }
+
+    .popularPlace-funDestinationsPara {
+        width: 100%;
+
+    }
+
+    .popularPlace-funDestinationsPara h4 {
+        margin-top: 30px;
+    }
+
+    .popularPlace-destinationsPhotos {
+        width: 100%;
+
+
+    }
+
+    .popularPlace-funDestinationsReverse {
+
+        flex-direction: column-reverse;
+    }
+}
+@media screen and (max-width:600px) {
+    .popularPlace-destinationsPhotos {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .popularPlace-destinationsPhotos img:nth-child(2) {
+        position: static;
+        margin-left: 10%;
+        margin-top: 10px;
+    }
+
+    .popularPlace-destinationsPhotos img {
+        width: 90%;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 8px;
+        box-shadow: -1px 1px 62px -18px rgba(0, 0, 0, 0.19);
+
+    }
+
+    .popularPlace-body h3 {
+        display: inline;
+        font-size: 2em;
+
+    }
+
+    .popularPlace-destinationPara {
+        font-size: 0.7em;
+    }
+
+    .popularPlace-funDestinationsPara p {
+        font-size: 0.9em;
+
+    }
+
+    .popularPlace-funDestinationsPara h4 {
+        font-size: 2em;
+    }
+
+}

@@ -1,0 +1,391 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.custom-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.custom-mainContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0px 20px 0px;
+}
+.custom-photo{
+    width: 100%;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+}
+.custom-photo img{
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 10px 5px 30px 15px rgba(0, 0, 0, 0.18);
+}
+.custom-mainContainer h1{
+    font-size: 60px;
+    margin: 0px 0px 20px 0px;
+}
+.custom-button2{
+    width: 20%;
+    height: 80px;
+    border: 1px solid rgb(164, 164, 164);
+    border-radius: 5px;
+    margin: 20px 10px 20px 10px;  
+    padding: 28px;
+    cursor: pointer;
+}
+.custom-choices2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+.custom-button{
+    width: 60%;
+    height: 80px;
+    border: 1px solid rgb(164, 164, 164);
+    border-radius: 5px;
+    margin: 20px 10px 20px 10px;  
+    padding: 28px;
+    cursor: pointer;
+}
+.custom-choices{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.custom-nxtBtn,
+.custom-backBtn{
+    background-color: rgb(78, 78, 255);
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    width:100px ;
+    height: 100%;
+}
+.custom-buttons{
+    width: 60%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin:50px 0px 50px 0px;
+}
+.custom-infoForm{
+    display:  flex;
+    flex-direction: column;
+    width: 60%;
+}
+.custom-infoForm input{
+    margin: 20px 0px 20px 0px;
+    padding: 20px 5px 20px 5px;
+    
+}
+.custom-packgeInfo{
+    border: 1px solid black;
+    width: 30%;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 40px 0px;
+
+}
+.custom-packgeInfo img{
+    width: 100%;
+    height: auto;
+}
+.custom-renderInfo{
+    display: flex ;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: start;
+    width: 100%;
+}
+.custom-formbuttons{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin:50px 0px 50px 0px;
+}
+.custom-renderInfo div{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.custom-date{
+    margin: 10px 0px 0px 10px ;
+}
+.custom-packageInfoHead{
+    font-size: 30px;
+    margin:10px 0px 10px 0px ;
+}
+.custom-paymentSection{
+    width:70%;
+    border-radius: 10px;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+}
+.custom-allInfoAboutPackage{
+    width:100% ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.custom-cost{
+    display: flex;
+    width: 90%;
+    height: 100px;
+    margin-top: 10px;
+    align-items: center;
+    border-bottom:1px solid rgb(143, 143, 143) ;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.custom-costHead{
+    display: flex;
+    align-items: center;
+}
+.custom-cost h3{
+    font-size: 25px;
+}
+.custom-cost h4{
+    font-size: 35px;
+}
+.custom-cost p{
+    margin-left: 10px;
+    color: rgb(108, 107, 107);
+}
+.custom-paymentForm{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    height: 250px;
+}
+.custom-paymentForm h4{
+    font-size: 27px;
+}
+.custom-paymentForm form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    border:1px solid rgb(143, 143, 143) ;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 220px;
+}    
+.custom-paymentForm form input{
+
+    width: 80%;
+    border: none;
+    border-bottom:1px solid rgb(143, 143, 143) ;
+    margin-top: 20px;
+    padding: 10px;
+}
+.custom-calculations{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 40px;  
+}
+.custom-calc1,
+.custom-serviceCharge,
+.custom-total,
+.custom-priceExtraRoom{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+.custom-calc1,
+.custom-serviceCharge,
+.custom-priceExtraRoom{
+    color: rgb(108, 107, 107);
+    font-size:15px;
+    font-weight: bold;
+}
+.custom-total{
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.custom-booknow{
+    width: 80%;
+    height: 50px;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    margin: 50px;
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    cursor: pointer;
+}
+.custom-transport{
+    width: 80%;
+    border: none;
+    border-bottom:1px solid rgb(143, 143, 143) ;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: transparent;
+    color: grey;
+}   
+.custom-paymentFormHead{
+    display:  flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.custom-error{
+    color: red;
+}
+.custom-popUp{
+    display: none;
+    position:fixed;
+    left:0;
+    top: 0;
+    margin-left: 50%;
+    margin-top: 25%;
+    transform: translate(-50%,-25%);
+    z-index: 999;
+    width: 500px;
+    height: 130px;
+    border-radius: 10px;
+    flex-direction: column;
+    box-shadow: -10px 8px 30px 2px rgb(129, 129, 129);
+    background-color: whitesmoke;
+    justify-content: center;
+}
+.custom-popUpButtons Button{
+    padding: 8px 15px ;
+    background-color: black;
+    color: white;
+    font-size: bolder;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 20px 0px 10px;
+    cursor: pointer;
+}
+.custom-popUpButtons{
+    align-self: flex-end;
+    margin-top: 25px;
+    display: flex;
+}
+.custom-confirmation{
+    margin-left: 10px;
+}
+@media screen and (max-width : 1000px) {
+    .custom-mainContainer h1{
+        font-size: 40px;
+    }
+    .custom-button2{
+        width: 200px;
+    }
+    .custom-paymentSection{
+        height: 1200px;
+    }
+    .custom-cost h4{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width : 860px) {
+    .custom-button{
+        width:90% ;
+    }
+    .custom-buttons{
+        width: 90%;
+    }
+    .custom-infoForm{
+        width: 90%;
+    }
+    .custom-cost h3{
+        font-size: 15px;
+    }
+    .custom-cost h4{
+        font-size:20px;
+    }
+    .custom-cost p{
+        font-size: 10px;
+    }
+    .custom-popUp{
+        width: 80%;
+    }
+}
+@media screen and (max-width : 600px) {
+    .custom-mainContainer h1{
+        font-size: 30px;
+    }
+    .custom-button2{
+        width: 120px;
+        height: 60px;
+        font-size: 13px;
+        padding:18px 0px 0px 10px;
+    }
+    .custom-paymentSection{
+        width: 95%;
+        height: 1150px;
+    }
+    .custom-cost h4{
+        font-size:20px;
+    }
+    .custom-popUp{
+        width: 90%;
+        font-size: 13px;
+    }
+}
+@media screen and (max-width : 450px) {
+    .custom-mainContainer h1{
+        font-size: 20px;
+    }
+    .custom-nxtBtn,
+    .custom-backBtn{
+        background-color: rgb(78, 78, 255);
+        color: white;
+        font-weight: bold;
+        border: 0px;
+        border-radius: 5px;
+        cursor: pointer;
+        width:80px ;
+        height: 80%;
+    }   
+    .custom-paymentSection{
+        height: 1050px;
+    }
+    .custom-cost h4{
+        font-size: 17px;
+    }
+    .custom-calc1,
+    .custom-serviceCharge,
+    .custom-priceExtraRoom{
+    color: rgb(108, 107, 107);
+    font-size:10px;
+    font-weight: bold;
+    }
+    .custom-total{
+        font-size: 23px;
+        font-weight: bolder;
+        
+    }
+    .custom-paymentFormHead h4{
+        font-size: 20px;
+    }
+}

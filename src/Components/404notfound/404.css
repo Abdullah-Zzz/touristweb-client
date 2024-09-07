@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding:0px ;
+}
+
+.notFound-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.notFound-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 360px;
+}
+.notFound-bodyHead{
+    border-right: 1px solid black;
+    font-size: 120px;
+    padding: 20px;
+}
+.notFound-bodypara{
+    margin-left: 20px;
+}
+@media screen and (max-width:590px) {
+    .notFound-bodyHead{
+        font-size: 50px;
+    } 
+    .notFound-bodypara{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:415px) {
+    .notFound-bodyHead{
+        font-size: 30px;
+    } 
+    .notFound-bodypara{
+        font-size: 10px;
+    }
+}
