@@ -28,7 +28,7 @@ export default function HeroAndNav() {
           Explore <span id="typed-element"></span>
         </h2>
         <p className='homeHero-paragraph'>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam odio, vero nulla tempora assumenda aliquid delectus molestias, expedita
+        Trippy is a cutting-edge web application that simplifies travel planning by offering personalized itineraries, seamless booking experiences, and eco-friendly tourism options, all while promoting local culture.
         </p>
         <Link to="/trips">
           <button className='homeHero-PlanButton'>

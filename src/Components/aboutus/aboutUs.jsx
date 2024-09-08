@@ -19,8 +19,8 @@ export default function AboutUs(){
                     Our History
                 </h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti molestiae id, ullam voluptates reprehenderit 
-                    labore inventore aperiam dolore accusamus tempore neque nemo debitis laborum expedita maxime sequi vitae explicabo iure.
+                Pakistan's history is a tapestry woven with the threads of ancient civilizations, including the Indus Valley and the Persian Empire. 
+                From the advent of Islam to the creation of our modern nation, our past is rich with cultural and historical milestones that continue to influence our present and future.
                 </p>
             </div>
             <div className="ourMission">
@@ -28,8 +28,8 @@ export default function AboutUs(){
                     Our Mission
                 </h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, adipisci dolorem numquam ut aspernatur maxime! 
-                    Eius officia aliquam iste sapiente, praesentium, libero ex molestias illo quam, tenetur aspernatur quidem assumenda?
+                Our mission is to highlight the diverse attractions and cultural heritage of Pakistan to both locals and international visitors. 
+                We are dedicated to providing comprehensive travel information and promoting the unique experiences that make Pakistan a remarkable destination for exploration.
                 </p>
             </div>
             <div className="ourVision">
@@ -37,8 +37,8 @@ export default function AboutUs(){
                     Our Vision
                 </h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, ducimus hic consequuntur dolorem ad nesciunt voluptas 
-                    excepturi, vel quam repudiandae commodi, libero ratione blanditiis laboriosam? Harum illum possimus libero commodi.
+                We envision a future where Pakistan is recognized as a top travel destination, known for its stunning landscapes, historical richness, and vibrant culture. 
+                By supporting responsible tourism and preserving our heritage, we aim to foster a greater appreciation of Pakistan's beauty and history.
                 </p>
             </div>
         </section>
