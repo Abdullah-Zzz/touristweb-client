@@ -32,9 +32,9 @@ export default function Footer(){
                 </div>
             </div>
 
-            <div className='footer-regards'>
+            {/* <div className='footer-regards'>
             <p>Designed and developed by <span className='devName'> Umair Sarwar</span></p>
-            </div>
+            </div> */}
         </footer>
     )
 }
