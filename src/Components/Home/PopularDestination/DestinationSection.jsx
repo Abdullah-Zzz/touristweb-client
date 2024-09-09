@@ -10,7 +10,7 @@ export default function Destination() {
                     Popular Destinations
                 </h3>
                 <p className='popularPlace-destinationPara'>
-                    Tours gives you the opportunity to see alot, within a time frame
+                    Tours gives you the opportunity to see alot
                 </p>
             </div>
             {

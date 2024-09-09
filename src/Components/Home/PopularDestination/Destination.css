@@ -145,3 +145,22 @@
     }
 
 }
+@media screen and (max-width : 430px) {
+    .popularPlace-destinationsPhotos img {
+        height: 200px;
+    }
+    .popularPlace-funDestinationsPara p {
+        font-size: 0.8em;
+
+    }
+    .popularPlace-funDestinationsPara h4 {
+        font-size: 1.5em;
+    }
+    .popularPlace-body h3 {
+        font-size: 1.8em;
+
+    }
+    .popularPlace-destinationPara {
+        font-size: 0.8em;
+    }
+}
