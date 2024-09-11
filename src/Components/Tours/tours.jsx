@@ -5,6 +5,7 @@ import { Link, useParams } from "react-router-dom"
 import "./tours.css"
 import axios from "axios";
 import CardTrips from "../Home/Trips/CardTrips";
+import Loading from "../loadingComp/loading";
 
 export default function Tours() {
     const [showMoreTrips, setshowMoreTrips] = React.useState(false);
@@ -46,7 +47,7 @@ export default function Tours() {
             </div>
             <section className="tours-allTrips">
                 {
-                    dataTrips && dataTrips.slice(1).filter((item) => {
+                    dataTrips ? dataTrips.slice(1).filter((item) => {
                             return search.toLowerCase() === "" ? item : item.name.toLowerCase().includes(search.toLowerCase())
                         }).map((trip,index) => {
                             if (showMoreTrips === true ){
@@ -71,7 +72,7 @@ export default function Tours() {
                                 }
                                 return null
                             }
-                        })
+                        }) : <Loading />
                     }
 
 

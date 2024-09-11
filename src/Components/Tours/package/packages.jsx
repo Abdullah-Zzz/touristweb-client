@@ -5,6 +5,7 @@ import Nav from "../../Home/nav/nav"
 import Footer from "../../Home/Footer/Footer"
 import "./package.css"
 import PackageCard from "./packageCard";
+import Loading from "../../loadingComp/loading"
 
 export default function Packages() {
     const { productId } = useParams();
@@ -47,7 +48,7 @@ export default function Packages() {
                     <div className="package-renderPackage">
 
                         {
-                            data && data.mainData[0].packages.map((pack) => {
+                            data ? data.mainData[0].packages.map((pack) => {
                                 return (
 
                                     <PackageCard
@@ -60,7 +61,7 @@ export default function Packages() {
                                         price={pack.price}
                                     />
                                 )   
-                            })
+                            }) : <Loading />
                         }
                     </div>
                 </section>

@@ -3,6 +3,8 @@ import CardTrips from "./CardTrips"
 import axios from "axios"
 import './Trips.css'
 import React from 'react'
+import Loading from "../../loadingComp/loading"
+
 
 export default function Trips(){
 
@@ -33,7 +35,7 @@ export default function Trips(){
         </div>
         <div className='trip-cards'>
           {
-            dataTrips && dataTrips.map((trip,index) =>{
+            dataTrips ? dataTrips.map((trip,index) =>{
               if(index < 3){
                 return (
                 <CardTrips 
@@ -46,7 +48,7 @@ export default function Trips(){
                 /> )
               }
               return null
-            })
+            }) : <Loading />
                 
           }
         </div>

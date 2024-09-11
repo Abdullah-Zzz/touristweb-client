@@ -4,6 +4,7 @@ import Nav from "../Home/nav/nav"
 import axios from "axios";
 import TripCards from "../Home/Trips/CardTrips";
 import Footer from "../Home/Footer/Footer"
+import Loading from "../loadingComp/loading";
 
 export default function Provinces() {
     const [data, setData] = React.useState()
@@ -31,7 +32,7 @@ export default function Provinces() {
             </div>
             <div className="provinces-card">
                 {
-                    data && data.map((province) => {
+                    data ? data.map((province) => {
                         return (
                             <TripCards
                                 img={province.mainData[0].image_url}
@@ -41,7 +42,7 @@ export default function Provinces() {
                                 id={province._id}
                                 redirURL = {"/trips"}
                             />)
-                    })
+                    }) : <Loading />
                 }
             </div>
             <Footer />
