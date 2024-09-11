@@ -5,6 +5,7 @@ import Footer from "../Home/Footer/Footer";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
+import FullScreenLoading from "../loadingComp/fullScreenloader"
 
 export default function SetNewPass() {
     const [pass , setPass] = React.useState("")
@@ -13,8 +14,10 @@ export default function SetNewPass() {
     const Backend_URL = import.meta.env.VITE_BACKEND_URL
     const {id, token} = useParams()
     const navigate = useNavigate()
+    const [loadingScreen,setLoadingScreen] = React.useState(false)
     
     const changingPass =async (e) => {
+        setLoadingScreen(true)
         e.preventDefault()
         const req = await axios.post(`${Backend_URL}/users/${id}/${token}`, {password:pass,confirmPass:confirmPass}, {
             validateStatus : function (status) {
@@ -35,10 +38,14 @@ export default function SetNewPass() {
         .catch(res => {
            setRespMessage(res.data)
         })
+        .finally(() =>{
+            setLoadingScreen(false)
+        })
     }
 
     return(
         <>
+        {loadingScreen ? <FullScreenLoading/> : null}
         <section className="newpass-body">    
             <Nav />
             <div className="newpass-mainContainer">
