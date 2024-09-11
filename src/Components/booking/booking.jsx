@@ -7,6 +7,7 @@ import { useNavigate } from "react-router-dom";
 import ImageSlider from "../Slider/ImageSlider";
 import Table from "../inclusionTable/table";
 import DatePicker from "../customize/datePicker";
+import FullScreenLoading from "../loadingComp/fullScreenloader"
 
 export default function Booking() {
     const navigate = useNavigate()
@@ -28,6 +29,7 @@ export default function Booking() {
     const [addComment, setAddComment] = React.useState("")
     const [commentError,setCommentError] = React.useState("")
     const [rating, setRating] = React.useState(3)
+    const [loadingScreen, setLoadingScreen] = React.useState(false)
     useEffect(() => {
         const fetchInformation = async () => {
             try {
@@ -160,6 +162,8 @@ export default function Booking() {
     }
     return (
         <section className="booking-mainContainer">
+            {pageInfo ? null :  <FullScreenLoading />}
+            {loadingScreen ? <FullScreenLoading /> : null}
             <Nav />
             < div className="booking-popUp" id="booking-popUp">
                 <div className="booking-confirmation">
