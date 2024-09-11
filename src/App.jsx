@@ -15,7 +15,6 @@ import SetNewPass from "./Components/newpass/setNewPass"
 import {LoginRouteProtect, SetPassRouteProtect} from "./utils/protectedRoutes"
 
 function App() {
-  const cookie = document.cookie;
   return (
     <Routes>
         <Route path="/" element={<Home />}/>
