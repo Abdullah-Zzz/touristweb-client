@@ -6,6 +6,7 @@ import Footer from "../Home/Footer/Footer";
 import dev from "/Images/dev.png"
 import Nav from "../Home/nav/nav"
 import { useNavigate } from "react-router-dom";
+import FullScreenLoading from "../loadingComp/fullScreenloader";
 
 export default function Login() {
     const Backend_URL = import.meta.env.VITE_BACKEND_URL
@@ -24,7 +25,11 @@ export default function Login() {
     password: "",
     })
 
+    const [loadingScreen, setLoadingScreen] = React.useState(false)
+
+
     function handleSubmit(e){
+        setLoadingScreen(true)
         e.preventDefault()
         axios.post(`${Backend_URL}/users/login` , {email:PostData.email, password:PostData.password},{
             validateStatus: function (status) {
@@ -44,9 +49,13 @@ export default function Login() {
         })
         .catch(err => {seterrorMessage('An error has occurred, please refresh the page')
         })
+        .finally(()=>{
+            setLoadingScreen(false)
+        })
     }
     return (
         <>
+        {loadingScreen ? <FullScreenLoading /> : null}
             <Nav />
             <section className="login-section">
                 <div className="login-container">

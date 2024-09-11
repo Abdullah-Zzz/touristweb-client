@@ -4,6 +4,7 @@ import Nav from "../Home/nav/nav";
 import Footer from "../Home/Footer/Footer";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import FullScreenLoading from "../loadingComp/fullScreenloader"
 
 export default function ResetPass() {
     const navigate = useNavigate()
@@ -12,7 +13,11 @@ export default function ResetPass() {
     const [input , setInput] = React.useState("")
     const [respMessage, setRespMessage] = React.useState("")
 
+    const [loadingScreen, setLoadingScreen] = React.useState(false)
+
+
     const sendingMail =async (e) => {
+        setLoadingScreen(true)
         e.preventDefault()
         const req = await axios.post(`${Backend_URL}/users/resetpass`, {email:input}, {
             validateStatus : function (status) {
@@ -30,10 +35,14 @@ export default function ResetPass() {
         .catch(res => {
            setRespMessage(res.data)
         })
+        .finally(()=>{
+            setLoadingScreen(false)
+        })
     }
 
     return(
         <>
+        {loadingScreen ? <FullScreenLoading /> : null}
         <section className="resetpass-body">    
             <Nav />
             <div className="resetpass-mainContainer">

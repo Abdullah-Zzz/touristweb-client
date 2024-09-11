@@ -4,6 +4,7 @@ import "./customize.css"
 import axios from "axios";
 import DatePicker from "./datePicker";
 import Footer from "../Home/Footer/Footer"
+import FullScreenLoading from "../loadingComp/fullScreenloader"
 
 export default function Customize() {
 
@@ -12,6 +13,7 @@ export default function Customize() {
     const [imageSrc, setImageSrc] = React.useState()
     const [customPopUpData, setCustomPopUpData] = React.useState("")
     const Backend_URL = import.meta.env.VITE_BACKEND_URL
+    const [loadingScreen, setLoadingScreen] = React.useState(false)
 
     React.useEffect(() => {
         const data = async () => {
@@ -105,6 +107,7 @@ export default function Customize() {
     }
 
     const bookingPackage = async (e) => {
+        setLoadingScreen(true)
         e.preventDefault()
         try{
             const POSTDATA = {
@@ -121,7 +124,6 @@ export default function Customize() {
                     transportation: customizedPackage.packageInfo.transportation
             }
            }
-           console.log(POSTDATA);
             const req = await axios.post(`${Backend_URL}/api/customized/order`, POSTDATA , {
                 validateStatus : function (status) {
                     return status  <= 500
@@ -141,7 +143,10 @@ export default function Customize() {
         }
         catch(err){
             setError(err)
-        }        
+        }    
+        finally{
+            setLoadingScreen(false)
+        }    
     }
     const popupCancel = () => {
         const popUp = document.getElementById("custom-popUp")
@@ -163,6 +168,8 @@ export default function Customize() {
       };
     return (
         <>
+        {provinces ? null :  <FullScreenLoading />}
+        {loadingScreen ? <FullScreenLoading /> : null}
             <nav>
                 <Nav />
             </nav>

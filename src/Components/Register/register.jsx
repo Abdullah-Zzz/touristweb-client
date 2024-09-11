@@ -6,6 +6,8 @@ import Footer from "../Home/Footer/Footer";
 import login from "/Images/login.jpeg"
 import Nav from "../Home/nav/nav"
 import { useNavigate } from "react-router-dom";
+import FullScreenLoading from "../loadingComp/fullScreenloader"
+
 
 export default function Register(){
     const navigate =  useNavigate()
@@ -23,8 +25,10 @@ export default function Register(){
         email:"",
         password:""
     })
+    const [loadingScreen, setLoadingScreen] = React.useState(false)
 
     function handleSubmit(e){
+        setLoadingScreen(true)
         e.preventDefault()
         axios.post(`${Backend_URL}/users/register`, {name:PostData.name, email:PostData.email, password:PostData.password},{
             validateStatus : function (status){
@@ -43,9 +47,13 @@ export default function Register(){
         .catch(err =>{
             console.log(err)
         })
+        .finally(() =>{
+            setLoadingScreen(false)
+        })
     }
     return(
         <>  
+        {loadingScreen ? <FullScreenLoading /> : null}
         <Nav/>
         <section className="register-section">
             <div className="register-container">
