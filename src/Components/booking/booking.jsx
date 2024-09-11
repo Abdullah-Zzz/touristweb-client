@@ -134,6 +134,7 @@ export default function Booking() {
         popUp.style.display = "flex";
     }
     const POSTCOMMENT =async (e) =>{
+        setLoadingScreen(true)
         e.preventDefault()
         try{
             const res = await axios.post(`${Backend_URL}/comments/${packageId}`,{
@@ -152,6 +153,9 @@ export default function Booking() {
         }
         catch(err){
             console.log(err)
+        }
+        finally{
+            setLoadingScreen(false)
         }
     }
     const handleDateChange = (date) =>{
