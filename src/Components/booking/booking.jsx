@@ -94,6 +94,7 @@ export default function Booking() {
     }
 
     const handleSubmit = async () => {
+        setLoadingScreen(true)
         const popUp = document.getElementById("booking-popUp");
         try {
             const res = await axios.post(`${Backend_URL}/api/booked`, {
@@ -122,6 +123,9 @@ export default function Booking() {
         }
         catch (err) {
             setbookedInfo(err)
+        }
+        finally{
+            setLoadingScreen(false)
         }
     }
     const popupCancel = () => {
