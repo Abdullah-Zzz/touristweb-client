@@ -7,7 +7,7 @@ export default function TripCards(props) {
 
     return (
         <div className='card-tripsCard'>
-           <Link to={`${props.redirURL}/${props.id}`}> <img src={props.img} /> </Link>
+           <Link to={`${props.redirURL}/${props.id}`}> <img src={props.img} loading='lazy' alt='card image'/> </Link>
             <div className='card-tripsInfo'>
                 <h4>
                     {props.head}

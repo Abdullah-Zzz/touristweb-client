@@ -24,8 +24,8 @@ export default function PopularPlaces(props){
             </p>
           </div>
           <div data-aos={props.fade2} className='popularPlace-destinationsPhotos'>
-              <img src={props.Img1} />
-              <img src={props.Img2} />
+              <img src={props.Img1} loading='lazy' alt='places image'/>
+              <img src={props.Img2}  loading='lazy' alt='places image'/>
           </div>
         </div>
 

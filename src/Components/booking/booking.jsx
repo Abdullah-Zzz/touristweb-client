@@ -194,13 +194,13 @@ export default function Booking() {
                         <section className="booking-information">
                             <h2 className="booking-name">{pageInfo && pageInfo.package_name}</h2>
                             <div className="booking-city">
-                                <img src="/Images/location.png" />
+                                <img src="/Images/location.png" loading="lazy"/>
                                 <p>{pageInfo && pageInfo.city}</p>
                             </div>
                             <div className="booking-priceAndDistance">
                                 <div className="booking-price">
 
-                                    <img src="/Images/dollar-symbol.png" />
+                                    <img src="/Images/dollar-symbol.png" loading="lazy"/>
                                     <p>{pageInfo && pageInfo.price} PKR/per person</p>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@ export default function Booking() {
                                 <h2>History</h2>
                                 <p>{pageInfo && pageInfo.big_description}</p>
                                 <div className="booking-history">
-                                    <img src="/Images/book.png" />
+                                    <img src="/Images/book.png" loading="lazy"/>
                                     <a href="#" className="booking-historyURL"><b>Read More About the History of {pageInfo && pageInfo.city}</b></a>
                                 </div>
                                 {/* <ul>
