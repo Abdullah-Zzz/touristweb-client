@@ -4,25 +4,28 @@ import axios from "axios"
 import './Trips.css'
 import React from 'react'
 import Loading from "../../loadingComp/loading"
+import { useQuery } from '@tanstack/react-query'
 
 
 export default function Trips(){
 
-  const [dataTrips, setdataTrips] = React.useState()
   const Backend_URL = import.meta.env.VITE_BACKEND_URL
-  
-  React.useEffect(() => {
-    const fetchData = async () => {
+  const fetchData = async () => {
       try {
         const response = await axios.get(`${Backend_URL}/api/trips`);
-        setdataTrips(response.data);
+        return response.data
       } catch (err) {
-        throw err 
+        console.log( err) 
       }
     };
 
-    fetchData();
-  }, []);
+  const {data : dataTrips,isLoading} = useQuery({
+    queryKey : ['dataTrips'],
+    queryFn : fetchData,
+    staleTime : 100*6*5,
+    refetchOnWindowFocus : false
+  })
+ 
   return(
         <section className="trip-availableTrips">
         <div className='trip-tripsHead'>
@@ -35,7 +38,7 @@ export default function Trips(){
         </div>
         <div className='trip-cards'>
           {
-            dataTrips ? dataTrips.map((trip,index) =>{
+            isLoading ? <Loading /> :  dataTrips.map((trip,index) =>{
               if(index < 3){
                 return (
                 <CardTrips 
@@ -48,8 +51,7 @@ export default function Trips(){
                 /> )
               }
               return null
-            }) : <Loading />
-                
+            }) 
           }
         </div>
         <Link to={'/trips'}> <button className='trip-ExploreMorebtn'>Explore Trips  </button> </Link>
