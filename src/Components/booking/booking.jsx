@@ -8,12 +8,15 @@ import ImageSlider from "../Slider/ImageSlider";
 import Table from "../inclusionTable/table";
 import DatePicker from "../customize/datePicker";
 import FullScreenLoading from "../loadingComp/fullScreenloader"
+import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
+
+
 
 export default function Booking() {
     const navigate = useNavigate()
     const Backend_URL = import.meta.env.VITE_BACKEND_URL
+    const queryClient = useQueryClient()
     const [Total, setTotal] = React.useState(1);
-    const [pageInfo, setpageInfo] = React.useState()
     const [error, setError] = React.useState("");
     const { productId, packageId } = useParams();
     const [reservationInfo, setreservationInfo] = React.useState({
@@ -22,54 +25,31 @@ export default function Booking() {
         people: 0,
         packageName: '',
         transportation: "air",
-        date:String
+        date: String
     })
     const [bookedInfo, setbookedInfo] = React.useState("")
-    const [comments, setComments] = React.useState()
     const [addComment, setAddComment] = React.useState("")
-    const [commentError,setCommentError] = React.useState("")
+    const [commentError, setCommentError] = React.useState("")
     const [rating, setRating] = React.useState(3)
-    const [loadingScreen, setLoadingScreen] = React.useState(false)
-    useEffect(() => {
-        const fetchInformation = async () => {
-            try {
-                const res = await axios.get(`${Backend_URL}/api/booking/${productId}/${packageId}`, {
-                    validateStatus: (status) => {
-                        return status < 500;
-                    }
-                })
-                const data = res.data.mainData[0].packages.filter((pack) => {
-                    return pack.id === packageId
-                })
-                setpageInfo(data[0])
-            }
-            catch (err) {
-                console.log(err)
-            }
-        }
-        fetchInformation();
-    }, [productId])
-    useEffect(() => {
-        const fetchInformation = async () => {
-            try {
-                const res = await axios.get(`${Backend_URL}/comments/${packageId}`, {
-                    validateStatus: (status) => {
-                        return status < 500;
-                    }
-                })
-                if (res.status == 200) {
-                    setComments(res.data)
-                }
-                else {
-                    setComments('')
-                }
-            }
-            catch (err) {
-                console.log(err)
-            }
-        }
-        fetchInformation();
-    }, [])
+    const { data: pageInfo, isInfoLoading } = useQuery({
+        queryKey: ['pageInfo'],
+        queryFn: async () => {
+            const res = await axios.get(`${Backend_URL}/api/booking/${productId}/${packageId}`);
+            return res.data.mainData[0].packages.find((p) => p.id === packageId);
+        },
+        staleTime: 1000 * 5 * 6,
+        refetchOnWindowFocus: false
+    })
+    const { data: comments, isCommentLoading } = useQuery({
+        queryKey: [packageId],
+        queryFn: async () => {
+            const res = await axios.get(`${Backend_URL}/comments/${packageId}`);
+            return res.data
+        },
+        staleTime: 1000 * 5 * 6,
+        refetchOnWindowFocus: false
+    })
+
     function settingInput(event) {
         const name = event.target.name;
         const value = event.target.value
@@ -92,41 +72,47 @@ export default function Booking() {
         value = value.replace(/\D/g, '');
         event.target.value = value;
     }
-
-    const handleSubmit = async () => {
-        setLoadingScreen(true)
-        const popUp = document.getElementById("booking-popUp");
-        try {
-            const res = await axios.post(`${Backend_URL}/api/booked`, {
-                name: reservationInfo.name,
-                number: reservationInfo.number,
-                people: reservationInfo.people,
-                packageName: pageInfo && pageInfo.package_name,
-                transportation: reservationInfo.transportation,
-                date: reservationInfo.date
-            }, {
-                validateStatus: (status) => {
-                    return status < 500;
-                }
+    const bookingMutation = useMutation({
+        mutationFn: async (data) => {
+            const res = await axios.post(`${Backend_URL}/api/booked`, data, {
+                validateStatus: (stat) => stat < 500
             })
-            if (res.status == 200) {
-                const data = res.data
-                setError("")
-                setbookedInfo(data)
-                window.location.reload()
-            }
-            else {
-                const data = res.data
-                popUp.style.display = "none";
-                setError(data)
-            }
+            return res.data
+        },
+        onSuccess: (data) => {
+            setError("")
+            setbookedInfo(data)
+        },
+        onError: (err) => {
+            setError(err)
+            document.getElementById("booking-popUp").style.display = "none";
         }
-        catch (err) {
-            setbookedInfo(err)
+    })
+    const commentMutation = useMutation({
+        mutationFn: async (data) => {
+            const res = await axios.post(`${Backend_URL}/comments/${packageId}`, data, {
+                withCredentials: true,
+            })
+            return res.data
+        },
+        onSuccess: async () => {
+            setCommentError("")
+            await queryClient.invalidateQueries({ queryKey: [packageId] })
+            setAddComment("")
+        },
+        onError: (err) => {
+            setCommentError(err?.response?.data || "Error submitting comment");
         }
-        finally{
-            setLoadingScreen(false)
-        }
+    })
+    const handleSubmit = () => {
+        bookingMutation.mutate({
+            name: reservationInfo.name,
+            number: reservationInfo.number,
+            people: reservationInfo.people,
+            packageName: pageInfo && pageInfo.package_name,
+            transportation: reservationInfo.transportation,
+            date: reservationInfo.date
+        })
     }
     const popupCancel = () => {
         const popUp = document.getElementById("booking-popUp");
@@ -137,41 +123,21 @@ export default function Booking() {
         const popUp = document.getElementById("booking-popUp");
         popUp.style.display = "flex";
     }
-    const POSTCOMMENT =async (e) =>{
-        setLoadingScreen(true)
-        e.preventDefault()
-        try{
-            const res = await axios.post(`${Backend_URL}/comments/${packageId}`,{
-                    comment:addComment,
-                    rating:rating
-            },{
-                validateStatus:(status) =>{
-                    return status < 500;
-                },
-                withCredentials:true,
-            })
-            setCommentError(res.data)
-            if(res.status == 200){
-                window.location.reload()
-            }
-        }
-        catch(err){
-            console.log(err)
-        }
-        finally{
-            setLoadingScreen(false)
-        }
+    const POSTCOMMENT = async (e) => {
+        e.preventDefault();
+        commentMutation.mutate({ comment: addComment, rating });
     }
-    const handleDateChange = (date) =>{
+    const handleDateChange = (date) => {
         setreservationInfo(oldInfo => ({
             ...oldInfo,
-            date:date
+            date: date
         }))
     }
     return (
         <section className="booking-mainContainer">
-            {pageInfo ? null :  <FullScreenLoading />}
-            {loadingScreen ? <FullScreenLoading /> : null}
+            {isInfoLoading ? <FullScreenLoading /> : null}
+            {bookingMutation.isPending && <FullScreenLoading />}
+            {commentMutation.isPending && <FullScreenLoading />}
             <Nav />
             < div className="booking-popUp" id="booking-popUp">
                 <div className="booking-confirmation">
@@ -194,13 +160,13 @@ export default function Booking() {
                         <section className="booking-information">
                             <h2 className="booking-name">{pageInfo && pageInfo.package_name}</h2>
                             <div className="booking-city">
-                                <img src="/Images/location.png" loading="lazy"/>
+                                <img src="/Images/location.png" loading="lazy" />
                                 <p>{pageInfo && pageInfo.city}</p>
                             </div>
                             <div className="booking-priceAndDistance">
                                 <div className="booking-price">
 
-                                    <img src="/Images/dollar-symbol.png" loading="lazy"/>
+                                    <img src="/Images/dollar-symbol.png" loading="lazy" />
                                     <p>{pageInfo && pageInfo.price} PKR/per person</p>
                                 </div>
                             </div>
@@ -214,7 +180,7 @@ export default function Booking() {
                                 <h2>History</h2>
                                 <p>{pageInfo && pageInfo.big_description}</p>
                                 <div className="booking-history">
-                                    <img src="/Images/book.png" loading="lazy"/>
+                                    <img src="/Images/book.png" loading="lazy" />
                                     <a href="#" className="booking-historyURL"><b>Read More About the History of {pageInfo && pageInfo.city}</b></a>
                                 </div>
                                 {/* <ul>
@@ -249,28 +215,28 @@ export default function Booking() {
                             <section className="booking-commentSection">
                                 <h1>Add A Comment</h1>
                                 <span className="booking-commentError">{commentError && commentError}</span>
-                                    <div className="booking-commentRatingStars">
-                                      <p className="booking-commentRatingHead">
+                                <div className="booking-commentRatingStars">
+                                    <p className="booking-commentRatingHead">
                                         please Rate our package:
-                                       </p>
-                                       <div className="booking-commentRatingAllStarsDiv">
+                                    </p>
+                                    <div className="booking-commentRatingAllStarsDiv">
 
                                         {
                                             new Array(5).fill(null).map((_, index) => {
-                                                return(
-                                                    <div className="booking-commentRatingStarsDiv" key={index+1} onClick={(e) => setRating(index+1)} >
-                                                    {rating >= index+1 ? <img src="/Images/star.png" key={index}/> : <img src="/Images/starEmpty.png" key={index}/>}
-                                                </div>
+                                                return (
+                                                    <div className="booking-commentRatingStarsDiv" key={index + 1} onClick={(e) => setRating(index + 1)} >
+                                                        {rating >= index + 1 ? <img src="/Images/star.png" key={index} /> : <img src="/Images/starEmpty.png" key={index} />}
+                                                    </div>
                                                 )
                                             })
                                         }
-                                        </div>
                                     </div>
+                                </div>
                                 <form method="POST" className="booking-commentForm" onSubmit={(e) => POSTCOMMENT(e)}>
-                                <textarea className="booking-commentInput" placeholder="Your Comment" onChange={(e) =>setAddComment(e.target.value)} required></textarea>
-                                        <button className="booking-commentButton" type="submit">
-                                            Add
-                                        </button>
+                                    <textarea className="booking-commentInput" placeholder="Your Comment" onChange={(e) => setAddComment(e.target.value)} required value={addComment}></textarea>
+                                    <button className="booking-commentButton" type="submit">
+                                        Add
+                                    </button>
                                     {/* <div className="booking-commentFormRating">
                                         <h2>Rating: </h2>
                                         <select className="booking-commentSetRating" onChange={(e) => setRating(parseInt(e.target.value))} required>
@@ -281,12 +247,16 @@ export default function Booking() {
                                     </div> */}
                                 </form>
                                 {comments ? comments.comments.map(comment => {
-                                   return (<div className="booking-comment">
+                                    return (<div className="booking-comment">
                                         <div className="booking-commentWriter">
                                             {comment.createdBy}
                                         </div>
                                         <div className="booking-commentDetails">
-                                            <p className="booking-commentDate">{comment.createdAt} | <span className="booking-commentRating">{comment.rating}<img src="/Images/star.png" /></span></p>
+                                            <p className="booking-commentDate">{new Date(comment.createdAt).toLocaleDateString("en-GB",{
+                                                day : "2-digit",
+                                                month : "short",
+                                                year : "numeric"
+                                            })} | <span className="booking-commentRating">{comment.rating}<img src="/Images/star.png" /></span></p>
                                         </div>
                                         <div className="booking-commentText">
                                             {comment.comment}

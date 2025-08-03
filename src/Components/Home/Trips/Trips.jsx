@@ -38,7 +38,7 @@ export default function Trips(){
         </div>
         <div className='trip-cards'>
           {
-            isLoading ? <Loading /> :  dataTrips.map((trip,index) =>{
+            isLoading ? <Loading /> :  dataTrips?.map((trip,index) =>{
               if(index < 3){
                 return (
                 <CardTrips 
